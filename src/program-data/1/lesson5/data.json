@@ -1,0 +1,165 @@
+{
+  "introduction": "Listen to the tape then answer this question. Is Chang-woo Chinese? 听录音，然后回答问题。 昌宇是中国人吗？",
+  "text_and_translation": [
+    {
+      "text": "MR. BLAKE: Good morning.",
+      "translation": "布莱克先生：早上好。"
+    },
+    {
+      "text": "STUDENTS:  Good morning, Mr. Blake.",
+      "translation": "学      生：早上好，布莱克先生。"
+    },
+    {
+      "text": "MR. BLAKE: This is Miss Sophie Dupont.",
+      "translation": "布莱克先生：这位是索菲娅.杜邦小姐。"
+    },
+    {
+      "text": "Sophie is a new student.",
+      "translation": "索菲娅是个新学生。"
+    },
+    {
+      "text": "She is French.",
+      "translation": "她是法国人。"
+    },
+    {
+      "text": "MR. BLAKE: Sophie, this is Hans.",
+      "translation": "布莱克先生：索菲娅，这位是汉斯。"
+    },
+    {
+      "text": "He is German.",
+      "translation": "他是德国人。"
+    },
+    {
+      "text": "HANS:      Nice to meet you.",
+      "translation": "汉      斯：很高兴见到你。"
+    },
+    {
+      "text": "MR. BLAKE: And this is Naoko.",
+      "translation": "布莱克先生：这位是直子。"
+    },
+    {
+      "text": "She's Japanese.",
+      "translation": "她是日本人。"
+    },
+    {
+      "text": "NAOKO:     Nice to meet you.",
+      "translation": "直      子：很高兴见到你。"
+    },
+    {
+      "text": "MR. BLAKE: And this is Chang-woo.",
+      "translation": "布莱克先生：这位是昌宇。"
+    },
+    {
+      "text": "He's Korean.",
+      "translation": "他是韩国人。"
+    },
+    {
+      "text": "CHANG-WOO: Nice to meet you.",
+      "translation": "昌      宇：很高兴见到你。"
+    },
+    {
+      "text": "MR. BLAKE: And this is Luming.",
+      "translation": "布莱克先生：这位是鲁明。"
+    },
+    {
+      "text": "He is Chinese.",
+      "translation": "他是中国人。"
+    },
+    {
+      "text": "LUMNG:     Nice to meet you.",
+      "translation": "鲁      明：很高兴见到你。"
+    },
+    {
+      "text": "MR. BLAKE: And this is Xiaohui.",
+      "translation": "布莱克先生：这位是晓惠。"
+    },
+    {
+      "text": "She's Chinese, too.",
+      "translation": "她也是中国人。"
+    },
+    {
+      "text": "XIAOHUI:   Nice to meet you.",
+      "translation": "晓      惠：很高兴见到你。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "Mr.",
+      "pronunciation": "/ˈmɪstər/",
+      "type": "n.",
+      "definition": "先生"
+    },
+    {
+      "word": "good",
+      "pronunciation": "/ɡʊd/",
+      "type": "adj.",
+      "definition": "好"
+    },
+    {
+      "word": "Miss",
+      "pronunciation": "/mɪs/",
+      "type": "n.",
+      "definition": "小姐"
+    },
+    {
+      "word": "new",
+      "pronunciation": "/njuː/",
+      "type": "adj.",
+      "definition": "新的"
+    },
+    {
+      "word": "student",
+      "pronunciation": "/ˈstjuːdənt/",
+      "type": "n.",
+      "definition": "学生"
+    },
+    {
+      "word": "French",
+      "pronunciation": "/frentʃ/",
+      "type": "adj. & n.",
+      "definition": "法国人"
+    },
+    {
+      "word": "German",
+      "pronunciation": "/ˈɡɜːrmən/",
+      "type": "adj. & n.",
+      "definition": "德国人"
+    },
+    {
+      "word": "nice",
+      "pronunciation": "/naɪs/",
+      "type": "adj.",
+      "definition": "美好的"
+    },
+    {
+      "word": "meet",
+      "pronunciation": "/miːt/",
+      "type": "v.",
+      "definition": "遇见"
+    },
+    {
+      "word": "Japanese",
+      "pronunciation": "/ˌdʒæpəˈniːz/",
+      "type": "adj. & n.",
+      "definition": "日本人"
+    },
+    {
+      "word": "Korean",
+      "pronunciation": "/kəˈriən/",
+      "type": "adj. & n.",
+      "definition": "韩国人"
+    },
+    {
+      "word": "Chinese",
+      "pronunciation": "/ˌtʃaɪˈniːz/",
+      "type": "adj. & n.",
+      "definition": "中国人"
+    },
+    {
+      "word": "too",
+      "pronunciation": "/tuː/",
+      "type": "adv.",
+      "definition": "也"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "introduction": "Listen to the tape then answer this question. Is the man in the cloakroom going to help the man who has lost his umbrella? 听录音，然后回答问题，衣帽间的人会帮助丢了伞的那个人吗？",
+  "text_and_translation": [
+    {
+      "text": "My coat and my umbrella please.",
+      "translation": "请把我的大衣和伞拿给我。"
+    },
+    {
+      "text": "Here is my ticket.",
+      "translation": "这是我（寄存东西）的牌子。"
+    },
+    {
+      "text": "Thank you, sir.",
+      "translation": "谢谢，先生。"
+    },
+    {
+      "text": "Number five.",
+      "translation": "是5号。"
+    },
+    {
+      "text": "Here's your umbrella and your coat.",
+      "translation": "这是您的伞和大衣。"
+    },
+    {
+      "text": "This is not my umbrella.",
+      "translation": "这不是我的伞。"
+    },
+    {
+      "text": "Sorry, sir.",
+      "translation": "对不起，先生。"
+    },
+    {
+      "text": "Is this your umbrella?",
+      "translation": "这把伞是您的吗？"
+    },
+    {
+      "text": "No, it isn't.",
+      "translation": "不，不是！"
+    },
+    {
+      "text": "Is this it?",
+      "translation": "这把是吗？"
+    },
+    {
+      "text": "Yes, it is.",
+      "translation": "是，是这把。"
+    },
+    {
+      "text": "Thank you very much.",
+      "translation": "非常感谢。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "umbrella",
+      "pronunciation": "/ʌmˈbrelə/",
+      "type": "n.",
+      "definition": "伞"
+    },
+    {
+      "word": "please",
+      "pronunciation": "/pliːz/",
+      "type": "int.",
+      "definition": "请"
+    },
+    {
+      "word": "here",
+      "pronunciation": "/hɪə/",
+      "type": "adv.",
+      "definition": "这里"
+    },
+    {
+      "word": "my",
+      "pronunciation": "/maɪ/",
+      "type": "possessive adjective",
+      "definition": "我的"
+    },
+    {
+      "word": "ticket",
+      "pronunciation": "/ˈtɪkɪt/",
+      "type": "n.",
+      "definition": "票"
+    },
+    {
+      "word": "number",
+      "pronunciation": "/ˈnʌmbə/",
+      "type": "n.",
+      "definition": "号码"
+    },
+    {
+      "word": "five",
+      "pronunciation": "/faɪv/",
+      "type": "num.",
+      "definition": "五"
+    },
+    {
+      "word": "sorry",
+      "pronunciation": "/ˈsɒri/",
+      "type": "adj.",
+      "definition": "对不起的"
+    },
+    {
+      "word": "sir",
+      "pronunciation": "/sɜː/",
+      "type": "n.",
+      "definition": "先生"
+    },
+    {
+      "word": "cloakroom",
+      "pronunciation": "/ˈkləʊkruːm/",
+      "type": "n.",
+      "definition": "衣帽存放处"
+    }
+  ]
+}
