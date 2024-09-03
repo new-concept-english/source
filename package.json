@@ -3,5 +3,19 @@
   "version": "1.0.0",
   "exports": {
     "./*": "./src/*"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3",
+    "prettier-plugin-lint-md": "^1.0.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.4.0"
+  },
+  "scripts": {
+    "build": "tsx scripts/main.ts",
+    "build-watch": "tsx --watch scripts/main.ts"
   }
 }
