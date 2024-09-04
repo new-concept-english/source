@@ -8,7 +8,7 @@ import path from 'node:path';
 import { JSONFilePreset } from 'lowdb/node';
 import axios, { AxiosError } from 'axios';
 import { fileFromPath } from 'formdata-node/file-from-path';
-import { createRequire } from 'node:module';
+// import { createRequire } from 'node:module';
 import { writeFile } from 'node:fs/promises';
 
 /*
@@ -19,10 +19,10 @@ export type Hashcatch = Record<string, Omit<Interface, 'base64'>>;
 const hashcatchPath = path.join(process.cwd(), 'scripts/hashcatch.json');
 
 const hashcatchDb = await JSONFilePreset<Hashcatch>(hashcatchPath, {});
+const uid = `@new-concept-english/source`;
+// const require = createRequire(import.meta.url);
 
-const require = createRequire(import.meta.url);
-
-const { name } = require('../package.json');
+// const { name } = require('../package.json');
 
 const dir = './assets';
 
@@ -128,7 +128,7 @@ async function upload(file: Base) {
   const form = new FormData();
   form.append('fileName', file.fileName);
   form.append('file', await fileFromPath(file.path));
-  form.append('uid', name);
+  form.append('uid', uid);
 
   try {
     const { data } = await axios.post<Interface>(

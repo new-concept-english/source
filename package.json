@@ -1,10 +1,35 @@
 {
-  "name": "@new-concept-english/source",
+  "name": "@boses/source",
   "type": "module",
   "version": "1.0.0",
+  "description": "新概念英语相关依赖的资源",
+  "author": "yliu",
+  "license": "MIT",
+  "homepage": "https://github.com/new-concept-english/source",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:new-concept-english/source.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/new-concept-english/source/issues"
+  },
+  "keywords": [
+    "新概念",
+    "英语",
+    "资源",
+    "美音",
+    "英音",
+    "课文"
+  ],
   "engines": {
     "node": ">=20.13.1"
   },
+  "files": [
+    "output"
+  ],
   "exports": {
     "./*.json": "./output/*.json"
   },
