@@ -1,0 +1,92 @@
+{
+  "title": "Lesson 13 A new dress 一件新连衣裙",
+  "introduction": "Listen to the tape then answer this question. What colour is Anna's hat? 听录音，然后回答问题。安娜的帽子是什么颜色的?",
+  "text_and_translation": [
+    {
+      "text": "LOUISE: What colour's your new dress?",
+      "translation": "路易丝：你的新连衣裙是什么颜色的？"
+    },
+    {
+      "text": "ANNA: It's green.",
+      "translation": "安娜：是绿色的。"
+    },
+    {
+      "text": "ANNA: Come upstairs and see it.",
+      "translation": "安娜：到楼上来看看吧。"
+    },
+    {
+      "text": "LOUISE: Thank you.",
+      "translation": "路易丝：谢谢。"
+    },
+    {
+      "text": "ANNA: Look! Here it is!",
+      "translation": "安娜：瞧，就是这件！"
+    },
+    {
+      "text": "LOUISE: That's a nice dress. It's very smart.",
+      "translation": "路易丝：这件连衣裙真好，真漂亮。"
+    },
+    {
+      "text": "ANNA: My hat's new, too.",
+      "translation": "安娜：我的帽子也是新的。"
+    },
+    {
+      "text": "LOUISE: What colour is it?",
+      "translation": "路易丝：是什么颜色的？"
+    },
+    {
+      "text": "ANNA: It's the same colour. It's green, too.",
+      "translation": "安娜：一样的颜色，也是绿的。"
+    },
+    {
+      "text": "LOUISE: That is a lovely hat!",
+      "translation": "路易丝：真是一顶可爱的帽子！"
+    }
+  ],
+  "notes": [
+    {
+      "title": "What colour's",
+      "describe": "是'What colour is'的缩写形式，常用于快速询问。"
+    },
+    {
+      "title": "Come upstairs",
+      "describe": "表示动作指令，意为“上楼”。"
+    },
+    {
+      "title": "the same colour",
+      "describe": "表示两者颜色相同。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "colour",
+      "pronunciation": "/ˈkʌlə/",
+      "type": "n.",
+      "definition": "颜色"
+    },
+    {
+      "word": "green",
+      "pronunciation": "/ɡriːn/",
+      "type": "adj.",
+      "definition": "绿色的"
+    },
+    {
+      "word": "hat",
+      "pronunciation": "/hæt/",
+      "type": "n.",
+      "definition": "帽子"
+    },
+    {
+      "word": "smart",
+      "pronunciation": "/smɑːt/",
+      "type": "adj.",
+      "definition": "时髦的，漂亮的"
+    },
+    {
+      "word": "lovely",
+      "pronunciation": "/ˈlʌvli/",
+      "type": "adj.",
+      "definition": "可爱的，美丽的"
+    }
+  ]
+}

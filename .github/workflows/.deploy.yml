@@ -34,7 +34,7 @@ jobs:
           cache: 'pnpm'
 
       - name: Build project
-        run: pnpm run build
+        run: pnpm run batchUpload && pnpm run build
 
       - name: Commit and push changes
         uses: crazy-max/ghaction-github-pages@v4
@@ -64,8 +64,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Configure npm for publishing
+        if: success()
+        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
+
       - name: Publish to npm
         run: pnpm publish --access public
-        if: success()
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
