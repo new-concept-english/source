@@ -1,0 +1,110 @@
+{
+  "title": "Lesson 9 How are you today? 你今天好吗?",
+  "introduction": "Listen to the tape then answer this question. How is Emma? 听录音，然后回答问题。埃玛身体好吗?",
+  "text_and_translation": [
+    {
+      "text": "STEVEN: Hello, Helen.",
+      "translation": "史蒂文：你好，海伦。"
+    },
+    {
+      "text": "HELEN: Hi, Steven.",
+      "translation": "海伦：你好，史蒂文。"
+    },
+    {
+      "text": "STEVEN: How are you today?",
+      "translation": "史蒂文：你今天怎么样？"
+    },
+    {
+      "text": "HELEN: I'm very well, thank you. And you?",
+      "translation": "海伦：我很好，谢谢。你呢？"
+    },
+    {
+      "text": "STEVEN: I'm fine, thanks.",
+      "translation": "史蒂文：我很好，谢谢。"
+    },
+    {
+      "text": "STEVEN: How is Tony?",
+      "translation": "史蒂文：托尼好吗？"
+    },
+    {
+      "text": "HELEN: He's very well, thanks.",
+      "translation": "海伦：他很好，谢谢。"
+    },
+    {
+      "text": "STEVEN: How's Emma?",
+      "translation": "史蒂文：埃玛好吗？"
+    },
+    {
+      "text": "HELEN: She's very well, too, Helen.",
+      "translation": "海伦：她也很好，海伦。"
+    },
+    {
+      "text": "STEVEN: Goodbye, Helen. Nice to see you.",
+      "translation": "史蒂文：再见，海伦。见到你很高兴。"
+    },
+    {
+      "text": "HELEN: Nice to see you, too, Steven. Goodbye.",
+      "translation": "海伦：我也很高兴见到你，史蒂文。再见。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "How are you today?",
+      "describe": "询问对方当天身体或状况的常用语。"
+    },
+    {
+      "title": "Nice to see you.",
+      "describe": "用于见面时表示高兴的用语，通常回答为'Nice to see you, too.'"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "hello",
+      "pronunciation": "/hə'ləʊ/",
+      "type": "int.",
+      "definition": "喂（表示问候）"
+    },
+    {
+      "word": "hi",
+      "pronunciation": "/haɪ/",
+      "type": "int.",
+      "definition": "喂，嗨"
+    },
+    {
+      "word": "how",
+      "pronunciation": "/haʊ/",
+      "type": "adv.",
+      "definition": "怎样"
+    },
+    {
+      "word": "today",
+      "pronunciation": "/tə'deɪ/",
+      "type": "adv.",
+      "definition": "今天"
+    },
+    {
+      "word": "well",
+      "pronunciation": "/wel/",
+      "type": "adj.",
+      "definition": "身体好"
+    },
+    {
+      "word": "thanks",
+      "pronunciation": "/θæŋks/",
+      "type": "int.",
+      "definition": "谢谢"
+    },
+    {
+      "word": "goodbye",
+      "pronunciation": "/ˌgʊd'baɪ/",
+      "type": "int.",
+      "definition": "再见"
+    },
+    {
+      "word": "see",
+      "pronunciation": "/siː/",
+      "type": "v.",
+      "definition": "见"
+    }
+  ]
+}
