@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.6.0 (2024-09-04)
+
+
+### Features
+
+* Automatically build resource dependencies and release versions ([50c16a2](https://github.com/new-concept-english/source/commit/50c16a2edea4d9940b970b2a562e9819e6226d38))
+* 更新教材 ([bafde17](https://github.com/new-concept-english/source/commit/bafde17a042bfb044e1f9f5cd21110ebe9f697de))
+
 ## 1.5.0 (2024-09-04)
 
 
