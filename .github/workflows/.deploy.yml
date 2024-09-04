@@ -48,16 +48,23 @@ jobs:
         with:
           target_branch: master
           build_dir: .
-          commit_message: 'feat: 自动构建资源依赖与发布版本'
+          commit_message: 'feat: Automatically build resource dependencies and release versions'
 
       - name: Pull latest changes
         run: git pull --rebase --autostash
 
       - name: Create and push tag
-        run: pnpm run release -- release-as patch --tag-force
+        run: pnpm run release -- --release-as patch --tag-force
 
       - name: Push tags to GitHub
         run: git push --follow-tags origin HEAD
+        if: success()
+
+      - name: Git check
+        run: |
+          git status --untracked-files=all
+          git diff --cached
+          git ls-files --others --exclude-standard
         if: success()
 
       - name: Configure npm for publishing
