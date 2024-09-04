@@ -38,8 +38,16 @@ jobs:
       - name: Build project
         run: pnpm run batchUpload && pnpm run build
 
+      - name: Commit and push changes
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: master
+          build_dir: .
+          commit_message: 'feat: 自动构建资源依赖与发布版本'
+
       - name: Set up Git user
         run: |
+          git pull --rebase
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
 
@@ -55,11 +63,4 @@ jobs:
         run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
 
       - name: Publish to npm
-        run: pnpm publish --access public
-
-      - name: Commit and push changes
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: master
-          build_dir: .
-          commit_message: 'feat: 自动构建资源依赖与发布版本'
+        run: pnpm publish --access public --no-git-checks
