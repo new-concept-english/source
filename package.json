@@ -28,9 +28,19 @@
     "node": ">=20.13.1"
   },
   "files": [
-    "output"
+    "output",
+    "dist"
   ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./*": "./output/*.json",
     "./*.json": "./output/*.json"
   },
   "devDependencies": {
@@ -44,11 +54,14 @@
     "shelljs": "^0.8.5",
     "tsx": "^4.19.0",
     "typescript": "^5.5.4",
-    "typescript-eslint": "^8.4.0"
+    "typescript-eslint": "^8.4.0",
+    "vite": "^5.4.3",
+    "vite-plugin-dts": "^4.1.0"
   },
   "scripts": {
-    "build": "tsx scripts/batchUpload.ts",
-    "build-watch": "tsx --watch scripts/batchUpload.ts",
+    "batchUpload": "tsx scripts/batchUpload.ts",
+    "batchUpload-watch": "tsx --watch scripts/batchUpload.ts",
+    "build": "vite build",
     "release": "commit-and-tag-version"
   },
   "dependencies": {
