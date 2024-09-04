@@ -50,14 +50,8 @@ jobs:
           build_dir: .
           commit_message: 'feat: 自动构建资源依赖与发布版本'
 
-      - name: Check for uncommitted changes
-        run: git status --untracked-files=all
-
-      - name: Show remote repository URL
-        run: git remote -v
-
       - name: Pull latest changes
-        run: git pull --rebase
+        run: git pull --rebase --autostash
 
       - name: Create and push tag
         run: pnpm run release -- release-as patch --tag-force
