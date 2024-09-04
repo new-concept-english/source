@@ -1,99 +1,116 @@
 {
-  "introduction": "Listen to the tape then answer this question. Is Chang-woo Chinese? 听录音，然后回答问题。 昌宇是中国人吗？",
+  "title": "Lesson 5 Nice to meet you. 很高兴见到你。",
+  "introduction": "Listen to the tape then answer this question. Is Chang-woo Chinese? 听录音，然后回答问题。昌宇是中国人吗?",
   "text_and_translation": [
     {
       "text": "MR. BLAKE: Good morning.",
       "translation": "布莱克先生：早上好。"
     },
     {
-      "text": "STUDENTS:  Good morning, Mr. Blake.",
-      "translation": "学      生：早上好，布莱克先生。"
+      "text": "STUDENTS: Good morning, Mr. Blake.",
+      "translation": "学 员 们：早上好，布莱克先生。"
     },
     {
       "text": "MR. BLAKE: This is Miss Sophie Dupont.",
-      "translation": "布莱克先生：这位是索菲娅.杜邦小姐。"
+      "translation": "布莱克先生：这位是索菲·杜邦小姐。"
     },
     {
-      "text": "Sophie is a new student.",
-      "translation": "索菲娅是个新学生。"
+      "text": "SOPHIE: Nice to meet you.",
+      "translation": "索菲：很高兴认识你。"
     },
     {
-      "text": "She is French.",
-      "translation": "她是法国人。"
+      "text": "MR. BLAKE: Sophie is a new student. She is French.",
+      "translation": "布莱克先生：索菲是新学生。她是法国人。"
     },
     {
       "text": "MR. BLAKE: Sophie, this is Hans.",
-      "translation": "布莱克先生：索菲娅，这位是汉斯。"
+      "translation": "布莱克先生：索菲，这位是汉斯。"
     },
     {
-      "text": "He is German.",
-      "translation": "他是德国人。"
+      "text": "HANS: Nice to meet you.",
+      "translation": "汉斯：很高兴见到你。"
     },
     {
-      "text": "HANS:      Nice to meet you.",
-      "translation": "汉      斯：很高兴见到你。"
+      "text": "MR. BLAKE: He is German.",
+      "translation": "布莱克先生：他是德国人。"
     },
     {
       "text": "MR. BLAKE: And this is Naoko.",
       "translation": "布莱克先生：这位是直子。"
     },
     {
-      "text": "She's Japanese.",
-      "translation": "她是日本人。"
+      "text": "NAOKO: Nice to meet you.",
+      "translation": "直子：很高兴见到你。"
     },
     {
-      "text": "NAOKO:     Nice to meet you.",
-      "translation": "直      子：很高兴见到你。"
+      "text": "MR. BLAKE: She is Japanese.",
+      "translation": "布莱克先生：她是日本人。"
     },
     {
       "text": "MR. BLAKE: And this is Chang-woo.",
       "translation": "布莱克先生：这位是昌宇。"
     },
     {
-      "text": "He's Korean.",
-      "translation": "他是韩国人。"
+      "text": "CHANG-WOO: Nice to meet you.",
+      "translation": "昌宇：很高兴见到你。"
     },
     {
-      "text": "CHANG-WOO: Nice to meet you.",
-      "translation": "昌      宇：很高兴见到你。"
+      "text": "MR. BLAKE: He is Korean.",
+      "translation": "布莱克先生：他是韩国人。"
     },
     {
       "text": "MR. BLAKE: And this is Luming.",
       "translation": "布莱克先生：这位是鲁明。"
     },
     {
-      "text": "He is Chinese.",
-      "translation": "他是中国人。"
+      "text": "LUMING: Nice to meet you.",
+      "translation": "鲁明：很高兴见到你。"
     },
     {
-      "text": "LUMNG:     Nice to meet you.",
-      "translation": "鲁      明：很高兴见到你。"
+      "text": "MR. BLAKE: He is Chinese.",
+      "translation": "布莱克先生：他是中国人。"
     },
     {
       "text": "MR. BLAKE: And this is Xiaohui.",
       "translation": "布莱克先生：这位是晓惠。"
     },
     {
-      "text": "She's Chinese, too.",
-      "translation": "她也是中国人。"
+      "text": "XIAOHUI: Nice to meet you.",
+      "translation": "晓惠：很高兴见到你。"
     },
     {
-      "text": "XIAOHUI:   Nice to meet you.",
-      "translation": "晓      惠：很高兴见到你。"
+      "text": "MR. BLAKE: She is Chinese, too.",
+      "translation": "布莱克先生：她也是中国人。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Good morning.",
+      "describe": "早上好。英语中常见的问候用语。"
+    },
+    {
+      "title": "Nice to meet you.",
+      "describe": "用于初次与同学、朋友见面等非正式场合。正式的场合常用How do you do?"
     }
   ],
   "vocabulary": [
     {
       "word": "Mr.",
-      "pronunciation": "/ˈmɪstər/",
+      "pronunciation": "/'mɪstə/",
       "type": "n.",
       "definition": "先生"
     },
     {
       "word": "good",
-      "pronunciation": "/ɡʊd/",
+      "pronunciation": "/gʊd/",
       "type": "adj.",
-      "definition": "好"
+      "definition": "好的"
+    },
+    {
+      "word": "morning",
+      "pronunciation": "/'mɔːnɪŋ/",
+      "type": "n.",
+      "definition": "早晨"
     },
     {
       "word": "Miss",
@@ -109,43 +126,31 @@
     },
     {
       "word": "student",
-      "pronunciation": "/ˈstjuːdənt/",
+      "pronunciation": "/'stjuːdənt/",
       "type": "n.",
       "definition": "学生"
     },
     {
       "word": "French",
-      "pronunciation": "/frentʃ/",
+      "pronunciation": "/frɛn(t)ʃ/",
       "type": "adj. & n.",
       "definition": "法国人"
     },
     {
       "word": "German",
-      "pronunciation": "/ˈɡɜːrmən/",
+      "pronunciation": "/'dʒɜːmən/",
       "type": "adj. & n.",
       "definition": "德国人"
     },
     {
-      "word": "nice",
-      "pronunciation": "/naɪs/",
-      "type": "adj.",
-      "definition": "美好的"
-    },
-    {
-      "word": "meet",
-      "pronunciation": "/miːt/",
-      "type": "v.",
-      "definition": "遇见"
-    },
-    {
       "word": "Japanese",
-      "pronunciation": "/ˌdʒæpəˈniːz/",
+      "pronunciation": "/ˌdʒæp(ə)n'iːz/",
       "type": "adj. & n.",
       "definition": "日本人"
     },
     {
       "word": "Korean",
-      "pronunciation": "/kəˈriən/",
+      "pronunciation": "/kə'riːən/",
       "type": "adj. & n.",
       "definition": "韩国人"
     },

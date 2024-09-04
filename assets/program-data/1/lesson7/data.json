@@ -1,0 +1,116 @@
+{
+  "title": "Lesson 7 Are you a teacher? 你是教师吗?",
+  "introduction": "Listen to the tape then answer this question. What is Robert's job? 听录音，然后回答问题。罗伯特是做什么工作的?",
+  "text_and_translation": [
+    {
+      "text": "ROBERT: I am a new student.",
+      "translation": "罗伯特：我是个新学生。"
+    },
+    {
+      "text": "SOPHIE: Nice to meet you.",
+      "translation": "索菲娅：很高兴见到你。"
+    },
+    {
+      "text": "SOPHIE: My name's Sophie.",
+      "translation": "索菲娅：我的名字叫索菲娅。"
+    },
+    {
+      "text": "ROBERT: Are you French?",
+      "translation": "罗伯特：你是法国人吗？"
+    },
+    {
+      "text": "SOPHIE: Yes, I am.",
+      "translation": "索菲娅：是的，我是。"
+    },
+    {
+      "text": "SOPHIE: Are you French, too?",
+      "translation": "索菲娅：你也是法国人吗？"
+    },
+    {
+      "text": "ROBERT: No, I am not.",
+      "translation": "罗伯特：不，我不是。"
+    },
+    {
+      "text": "SOPHIE: What nationality are you?",
+      "translation": "索菲娅：你是哪国人？"
+    },
+    {
+      "text": "ROBERT: I'm Italian.",
+      "translation": "罗伯特：我是意大利人。"
+    },
+    {
+      "text": "ROBERT: Are you a teacher?",
+      "translation": "罗伯特：你是教师吗？"
+    },
+    {
+      "text": "SOPHIE: No, I'm not.",
+      "translation": "索菲娅：不，我不是。"
+    },
+    {
+      "text": "SOPHIE: What's your job?",
+      "translation": "索菲娅：你是做什么工作的？"
+    },
+    {
+      "text": "ROBERT: I'm an engineer.",
+      "translation": "罗伯特：我是工程师。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "My name's",
+      "describe": "等于My name is，是自我介绍时常用的表达方式。"
+    },
+    {
+      "title": "What's your job?",
+      "describe": "用来询问对方职业的常用问句，也可以说What do you do?"
+    },
+    {
+      "title": "I'm...",
+      "describe": "用来表达自己的职业或状态，例如I'm a teacher（我是教师）或I'm fine（我很好）。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "I",
+      "pronunciation": "/aɪ/",
+      "type": "pron.",
+      "definition": "我"
+    },
+    {
+      "word": "am",
+      "pronunciation": "/əm/",
+      "type": "v.",
+      "definition": "be动词现在时第一人称单数"
+    },
+    {
+      "word": "name",
+      "pronunciation": "/neɪm/",
+      "type": "n.",
+      "definition": "名字"
+    },
+    {
+      "word": "what",
+      "pronunciation": "/wɒt/",
+      "type": "adj. & pron.",
+      "definition": "什么"
+    },
+    {
+      "word": "nationality",
+      "pronunciation": "/ˌnæʃəˈnæləti/",
+      "type": "n.",
+      "definition": "国籍"
+    },
+    {
+      "word": "job",
+      "pronunciation": "/dʒɒb/",
+      "type": "n.",
+      "definition": "工作"
+    },
+    {
+      "word": "engineer",
+      "pronunciation": "/ˌɛndʒɪˈnɪə/",
+      "type": "n.",
+      "definition": "工程师"
+    }
+  ]
+}

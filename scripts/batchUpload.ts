@@ -116,9 +116,14 @@ const volumeAll = groupBy(md5, (item) => item.volume);
 
 await Promise.all(
   Object.entries(volumeAll).map(([key, value]) => {
+    /*
+     * 对课本也要进行分类，否则会出现太拥挤情况
+     */
+    const lesson = groupBy(value, (item) => item.lesson);
+
     return writeFile(
       path.join(process.cwd(), 'output', `${key}.json`),
-      JSON.stringify(value, null, 2),
+      JSON.stringify(lesson, null, 2),
     );
   }),
 );

@@ -1,9 +1,10 @@
 {
-  "introduction": "Listen to the tape then answer this question. Whose handbag is it? 听录音，然后回答问题，这是谁的手袋？",
+  "title": "Lesson 1 Excuse me! 对不起!",
+  "introduction": "Listen to the tape then answer this question. Whose handbag is it? 听录音，然后回答问题。这是谁的手袋?",
   "text_and_translation": [
     {
       "text": "Excuse me!",
-      "translation": "对不起"
+      "translation": "对不起！"
     },
     {
       "text": "Yes?",
@@ -15,7 +16,7 @@
     },
     {
       "text": "Pardon?",
-      "translation": "对不起，请再说一遍。"
+      "translation": "请再说一遍？"
     },
     {
       "text": "Is this your handbag?",
@@ -27,15 +28,31 @@
     },
     {
       "text": "Thank you very much.",
-      "translation": "非常感谢！"
+      "translation": "非常感谢。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Excuse me.",
+      "describe": "这个短语常用于与陌生人搭话，打断别人的说话或从别人身边挤过。在课文中，男士为了吸引女士的注意力而用了这个表示客套的短语。"
+    },
+    {
+      "title": "Pardon?",
+      "describe": "全句为I beg your pardon.意思是请求对方把刚才讲过的话重复一遍。"
     }
   ],
   "vocabulary": [
     {
       "word": "excuse",
-      "pronunciation": "/ɪkˈskjuːs/",
+      "pronunciation": "/ɪk'skjuːz/",
       "type": "v.",
       "definition": "原谅"
+    },
+    {
+      "word": "handbag",
+      "pronunciation": "/'hændbæg/",
+      "type": "n.",
+      "definition": "(女用)手提包"
     },
     {
       "word": "me",
@@ -44,40 +61,16 @@
       "definition": "我(宾格)"
     },
     {
+      "word": "pardon",
+      "pronunciation": "/'pɑːdn/",
+      "type": "int.",
+      "definition": "原谅，请再说一遍"
+    },
+    {
       "word": "yes",
       "pronunciation": "/jɛs/",
       "type": "adv.",
       "definition": "是的"
-    },
-    {
-      "word": "is",
-      "pronunciation": "/ɪz/",
-      "type": "v.",
-      "definition": "be 动词现在时第三人称单数"
-    },
-    {
-      "word": "this",
-      "pronunciation": "/ðɪs/",
-      "type": "pron.",
-      "definition": "这"
-    },
-    {
-      "word": "your",
-      "pronunciation": "/jʊər/",
-      "type": "possessive adjective",
-      "definition": "你的，你们的"
-    },
-    {
-      "word": "handbag",
-      "pronunciation": "/ˈhændbæg/",
-      "type": "n.",
-      "definition": "（女用）手提包"
-    },
-    {
-      "word": "pardon",
-      "pronunciation": "/ˈpɑːrdn/",
-      "type": "int.",
-      "definition": "原谅，请再说一遍"
     },
     {
       "word": "it",
@@ -86,16 +79,28 @@
       "definition": "它"
     },
     {
-      "word": "thank you",
-      "pronunciation": "/θæŋk juː/",
-      "type": "",
-      "definition": "感谢你（们）"
+      "word": "is",
+      "pronunciation": "/ɪz/",
+      "type": "v.",
+      "definition": "be动词现在时第三人称单数"
+    },
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
     },
     {
       "word": "very much",
-      "pronunciation": "/ˈvɛri mʌtʃ/",
-      "type": "",
+      "pronunciation": "/'veri mʌtʃ/",
+      "type": "adv.",
       "definition": "非常地"
+    },
+    {
+      "word": "your",
+      "pronunciation": "/jɔː/",
+      "type": "possessive adjective",
+      "definition": "你的，你们的"
     }
   ]
 }

@@ -1,8 +1,9 @@
 {
-  "introduction": "Listen to the tape then answer this question. Is the man in the cloakroom going to help the man who has lost his umbrella? 听录音，然后回答问题，衣帽间的人会帮助丢了伞的那个人吗？",
+  "title": "Lesson 3 Sorry, sir. 对不起，先生。",
+  "introduction": "Listen to the tape then answer this question. Does the man get his umbrella back? 听录音，然后回答问题。这位男士有没有要回他的雨伞?",
   "text_and_translation": [
     {
-      "text": "My coat and my umbrella please.",
+      "text": "My coat and my umbrella, please.",
       "translation": "请把我的大衣和伞拿给我。"
     },
     {
@@ -10,12 +11,8 @@
       "translation": "这是我（寄存东西）的牌子。"
     },
     {
-      "text": "Thank you, sir.",
-      "translation": "谢谢，先生。"
-    },
-    {
-      "text": "Number five.",
-      "translation": "是5号。"
+      "text": "Thank you, sir. Number five.",
+      "translation": "谢谢，先生。是5号。"
     },
     {
       "text": "Here's your umbrella and your coat.",
@@ -31,15 +28,15 @@
     },
     {
       "text": "Is this your umbrella?",
-      "translation": "这把伞是您的吗？"
+      "translation": "这把伞是您的吗?"
     },
     {
       "text": "No, it isn't.",
-      "translation": "不，不是！"
+      "translation": "不，不是。"
     },
     {
       "text": "Is this it?",
-      "translation": "这把是吗？"
+      "translation": "这把是吗?"
     },
     {
       "text": "Yes, it is.",
@@ -50,12 +47,36 @@
       "translation": "非常感谢。"
     }
   ],
+  "notes": [
+    {
+      "title": "Here's",
+      "describe": "是Here is的缩写形式，类似的例子有He's (He is), It's(It is)等。缩写形式和非缩写形式在英语的书面用语和口语中均有，但非缩写形式常用于比较正式的场合。"
+    },
+    {
+      "title": "Sorry",
+      "describe": "等于I'm sorry.这是口语中的缩略形式，用于社交场合，向他人表示歉意。"
+    },
+    {
+      "title": "sir",
+      "describe": "先生，这是英美人对不相识的男子、年长者或上级的尊称。"
+    },
+    {
+      "title": "Is this it?",
+      "describe": "本句中it是指your umbrella。由于前面提到了，后面就用代词it来代替，以免重复。"
+    }
+  ],
   "vocabulary": [
     {
       "word": "umbrella",
-      "pronunciation": "/ʌmˈbrelə/",
+      "pronunciation": "/ʌm'brelə/",
       "type": "n.",
       "definition": "伞"
+    },
+    {
+      "word": "number",
+      "pronunciation": "/'nʌmbə/",
+      "type": "n.",
+      "definition": "号码"
     },
     {
       "word": "please",
@@ -64,10 +85,22 @@
       "definition": "请"
     },
     {
+      "word": "five",
+      "pronunciation": "/faɪv/",
+      "type": "num.",
+      "definition": "五"
+    },
+    {
       "word": "here",
-      "pronunciation": "/hɪə/",
+      "pronunciation": "/hɪər/",
       "type": "adv.",
       "definition": "这里"
+    },
+    {
+      "word": "sorry",
+      "pronunciation": "/'sɒri/",
+      "type": "adj.",
+      "definition": "对不起的"
     },
     {
       "word": "my",
@@ -76,38 +109,20 @@
       "definition": "我的"
     },
     {
-      "word": "ticket",
-      "pronunciation": "/ˈtɪkɪt/",
-      "type": "n.",
-      "definition": "票"
-    },
-    {
-      "word": "number",
-      "pronunciation": "/ˈnʌmbə/",
-      "type": "n.",
-      "definition": "号码"
-    },
-    {
-      "word": "five",
-      "pronunciation": "/faɪv/",
-      "type": "num.",
-      "definition": "五"
-    },
-    {
-      "word": "sorry",
-      "pronunciation": "/ˈsɒri/",
-      "type": "adj.",
-      "definition": "对不起的"
-    },
-    {
       "word": "sir",
       "pronunciation": "/sɜː/",
       "type": "n.",
       "definition": "先生"
     },
     {
+      "word": "ticket",
+      "pronunciation": "/'tɪkɪt/",
+      "type": "n.",
+      "definition": "票"
+    },
+    {
       "word": "cloakroom",
-      "pronunciation": "/ˈkləʊkruːm/",
+      "pronunciation": "/'kləʊkruːm/",
       "type": "n.",
       "definition": "衣帽存放处"
     }
