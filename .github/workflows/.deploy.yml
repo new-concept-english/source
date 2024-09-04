@@ -24,6 +24,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Set up Git user
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
       - uses: pnpm/action-setup@v3
         with:
           version: 9
@@ -45,11 +50,8 @@ jobs:
           build_dir: .
           commit_message: 'feat: 自动构建资源依赖与发布版本'
 
-      - name: Set up Git user
-        run: |
-          git pull --rebase
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+      - name: Pull latest changes
+        run: git pull --rebase
 
       - name: Create and push tag
         run: pnpm run release -- release-as patch --tag-force

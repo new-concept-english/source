@@ -1,0 +1,78 @@
+{
+  "title": "Lesson 21 Which book? 哪一本书?",
+  "introduction": "Listen to the tape and answer the question. Which book does the man want? 听录音并回答问题。这位男士想要哪一本书?",
+  "text_and_translation": [
+    {
+      "text": "MAN: Give me a book please, Jane.",
+      "translation": "男人：请给我一本书，简。"
+    },
+    {
+      "text": "WOMAN: Which book?",
+      "translation": "女人：哪一本书？"
+    },
+    {
+      "text": "MAN: This one?",
+      "translation": "男人：这本吗？"
+    },
+    {
+      "text": "WOMAN: This one? No, not that one. The red one.",
+      "translation": "女人：这本？不，不是那本。是那本红的。"
+    },
+    {
+      "text": "MAN: This one?",
+      "translation": "男人：这本吗？"
+    },
+    {
+      "text": "WOMAN: Yes, please.",
+      "translation": "女人：是的，请拿这本。"
+    },
+    {
+      "text": "WOMAN: Here you are.",
+      "translation": "女人：给你。"
+    },
+    {
+      "text": "MAN: Thank you.",
+      "translation": "男人：谢谢。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Give me a book, please.",
+      "describe": "请求对方给予某物的表达方式，其中'a book'指任意一本书。"
+    },
+    {
+      "title": "Which book?",
+      "describe": "询问具体想要哪一本书，用于当有多于一本书可供选择时。"
+    },
+    {
+      "title": "The red one.",
+      "describe": "指特定的一本书，这里通过颜色'red'来区分。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "give",
+      "pronunciation": "/ɡɪv/",
+      "type": "v.",
+      "definition": "给"
+    },
+    {
+      "word": "which",
+      "pronunciation": "/wɪtʃ/",
+      "type": "adj. & pron.",
+      "definition": "哪一个"
+    },
+    {
+      "word": "one",
+      "pronunciation": "/wʌn/",
+      "type": "pron.",
+      "definition": "一个"
+    },
+    {
+      "word": "red",
+      "pronunciation": "/rɛd/",
+      "type": "adj.",
+      "definition": "红色的"
+    }
+  ]
+}
