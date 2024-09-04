@@ -1,0 +1,146 @@
+{
+  "title": "Lesson 27 Mrs. Smith's living room 史密斯太太的客厅",
+  "introduction": "Listen to the tape then answer this question. Where are the books? 听录音，然后回答问题。书在哪里?",
+  "text_and_translation": [
+    {
+      "text": "MRS. SMITH'S LIVING ROOM IS LARGE.",
+      "translation": "史密斯太太的客厅很大。"
+    },
+    {
+      "text": "THERE IS A TELEVISION IN THE ROOM.",
+      "translation": "客厅里有台电视机。"
+    },
+    {
+      "text": "THE TELEVISION IS NEAR THE WINDOW.",
+      "translation": "电视机靠近窗户。"
+    },
+    {
+      "text": "THERE ARE SOME MAGAZINES ON THE TELEVISION.",
+      "translation": "电视机上有几本杂志。"
+    },
+    {
+      "text": "THERE IS A TABLE IN THE ROOM.",
+      "translation": "客厅里有张桌子。"
+    },
+    {
+      "text": "THERE ARE SOME NEWSPAPERS ON THE TABLE.",
+      "translation": "桌上有几份报纸。"
+    },
+    {
+      "text": "THERE ARE SOME ARMCHAIRS IN THE ROOM.",
+      "translation": "客厅里有几把扶手椅。"
+    },
+    {
+      "text": "THE ARMCHAIRS ARE NEAR THE TABLE.",
+      "translation": "扶手椅靠近桌子。"
+    },
+    {
+      "text": "THERE IS A STEREO IN THE ROOM.",
+      "translation": "客厅里有台音响。"
+    },
+    {
+      "text": "THE STEREO IS NEAR THE DOOR.",
+      "translation": "音响靠近门。"
+    },
+    {
+      "text": "THERE ARE SOME BOOKS ON THE STEREO.",
+      "translation": "音响上面有几本书。"
+    },
+    {
+      "text": "THERE ARE SOME PICTURES IN THE ROOM.",
+      "translation": "客厅里有几幅画。"
+    },
+    {
+      "text": "THE PICTURES ARE ON THE WALL.",
+      "translation": "画挂在墙上。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "There is / There are",
+      "describe": "用于表达某地存在某物，单数用'There is'，复数用'There are'。"
+    },
+    {
+      "title": "near the window / door",
+      "describe": "表示物品靠近窗户或门的位置。"
+    },
+    {
+      "title": "on the wall",
+      "describe": "表示物品挂在墙上。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "living room",
+      "pronunciation": "/ˈlɪvɪŋ ruːm/",
+      "type": "n.",
+      "definition": "客厅"
+    },
+    {
+      "word": "television",
+      "pronunciation": "/ˈtelɪvɪʒn/",
+      "type": "n.",
+      "definition": "电视机"
+    },
+    {
+      "word": "window",
+      "pronunciation": "/ˈwɪndəʊ/",
+      "type": "n.",
+      "definition": "窗户"
+    },
+    {
+      "word": "magazine",
+      "pronunciation": "/ˌmæɡəˈziːn/",
+      "type": "n.",
+      "definition": "杂志"
+    },
+    {
+      "word": "table",
+      "pronunciation": "/ˈteɪbl/",
+      "type": "n.",
+      "definition": "桌子"
+    },
+    {
+      "word": "newspaper",
+      "pronunciation": "/ˈnjuːzpeɪpər/",
+      "type": "n.",
+      "definition": "报纸"
+    },
+    {
+      "word": "armchair",
+      "pronunciation": "/ˈɑːmtʃeə(r)/",
+      "type": "n.",
+      "definition": "扶手椅"
+    },
+    {
+      "word": "stereo",
+      "pronunciation": "/ˈsteriəʊ/",
+      "type": "n.",
+      "definition": "音响"
+    },
+    {
+      "word": "door",
+      "pronunciation": "/dɔːr/",
+      "type": "n.",
+      "definition": "门"
+    },
+    {
+      "word": "book",
+      "pronunciation": "/bʊk/",
+      "type": "n.",
+      "definition": "书"
+    },
+    {
+      "word": "picture",
+      "pronunciation": "/ˈpɪktʃə(r)/",
+      "type": "n.",
+      "definition": "画"
+    },
+    {
+      "word": "wall",
+      "pronunciation": "/wɔːl/",
+      "type": "n.",
+      "definition": "墙"
+    }
+  ]
+}

@@ -82,7 +82,7 @@ const difference = md5.filter((current) => !hashcatchDb.data[current.md5]);
 
 if (!difference.length) {
   console.warn(`无新变更文件。`);
-  process.exit(0);
+  // process.exit(0);
 }
 
 // 写入等待数组
@@ -114,16 +114,63 @@ await Promise.all(writeWaitingArray);
 
 const volumeAll = groupBy(md5, (item) => item.volume);
 
+export interface Type {
+  lrc: Base;
+  mp3: Base;
+}
+export interface Lesson {
+  /* 英音 */
+  tapeEnglish: Type;
+  /* 美音 */
+  tapeAmericanMusic: Type;
+  /* 插图 */
+  illustration: unknown;
+  /* 课文 */
+  text: Base;
+}
+
 await Promise.all(
   Object.entries(volumeAll).map(([key, value]) => {
     /*
      * 对课本也要进行分类，否则会出现太拥挤情况
      */
     const lesson = groupBy(value, (item) => item.lesson);
+    /*
+     * 对每一课也要进行分类，分为插图、音频、课文等
+     */
+    const content = Object.entries(lesson).reduce(
+      (obj, [key, value]) => {
+        const c = value.reduce((o, v) => {
+          const { dir, ext } = path.parse(v.path);
+          switch (ext) {
+            case '.json':
+              o['text'] = v;
+              break;
+            case '.mp3':
+            case '.lrc': {
+              const key: keyof Lesson = dir.endsWith(`tape-english`)
+                ? 'tapeEnglish'
+                : 'tapeAmericanMusic';
+
+              const isMp3 = ext === '.mp3';
+              o[key] = Object.assign({}, o[key], {
+                [isMp3 ? 'mp3' : 'lrc']: v,
+              });
+
+              break;
+            }
+          }
+          return o;
+        }, {} as Lesson);
+        obj[key] = c;
+        return obj;
+      },
+      {} as Record<string, Lesson>,
+    );
 
     return writeFile(
       path.join(process.cwd(), 'output', `${key}.json`),
-      JSON.stringify(lesson, null, 2),
+      JSON.stringify(content, null, 2),
     );
   }),
 );
