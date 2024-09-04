@@ -1,7 +1,7 @@
 {
   "name": "@boses/source",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "新概念英语相关依赖的资源",
   "author": "yliu",
   "license": "MIT",
@@ -35,11 +35,13 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
+    "@types/shelljs": "^0.8.15",
     "commit-and-tag-version": "^12.4.2",
     "eslint": "^9.9.1",
     "globals": "^15.9.0",
     "prettier": "^3.3.3",
     "prettier-plugin-lint-md": "^1.0.1",
+    "shelljs": "^0.8.5",
     "tsx": "^4.19.0",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.4.0"
