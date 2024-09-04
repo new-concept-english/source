@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.5.0 (2024-09-04)
+
+
+### Features
+
+* Automatically build resource dependencies and release versions ([159a84c](https://github.com/new-concept-english/source/commit/159a84c024659fb6be82c2989088611d4cc41b22))
+* 添加新课程第一册27课，对输出文件层级进行调整 ([1df2698](https://github.com/new-concept-english/source/commit/1df269819b535669f420ee5734569850a3fd6aab))
+
 ## 1.4.0 (2024-09-04)
 
 
