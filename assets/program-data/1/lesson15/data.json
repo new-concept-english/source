@@ -1,0 +1,138 @@
+{
+  "title": "Lesson 15 Your passports, please. 请出示你们的护照。",
+  "introduction": "Listen to the tape then answer this question. Is there a problem with the Customs officer? 听录音，然后回答问题。海关官员有什么疑问吗?",
+  "text_and_translation": [
+    {
+      "text": "CUSTOMS OFFICER: Are you Swedish?",
+      "translation": "海关官员：你们是瑞典人吗？"
+    },
+    {
+      "text": "GIRLS: No, we are not.",
+      "translation": "女孩们：不，我们不是。"
+    },
+    {
+      "text": "GIRLS: We are Danish.",
+      "translation": "女孩们：我们是丹麦人。"
+    },
+    {
+      "text": "CUSTOMS OFFICER: Are your friends Danish, too?",
+      "translation": "海关官员：你们的朋友也是丹麦人吗？"
+    },
+    {
+      "text": "GIRLS: No, they aren't.",
+      "translation": "女孩们：不，他们不是。"
+    },
+    {
+      "text": "GIRLS: They are Norwegian.",
+      "translation": "女孩们：他们是挪威人。"
+    },
+    {
+      "text": "CUSTOMS OFFICER: Your passports, please.",
+      "translation": "海关官员：请出示你们的护照。"
+    },
+    {
+      "text": "GIRLS: Here they are.",
+      "translation": "女孩们：给您。"
+    },
+    {
+      "text": "CUSTOMS OFFICER: Are these your cases?",
+      "translation": "海关官员：这些是你们的箱子吗？"
+    },
+    {
+      "text": "GIRLS: No, they aren't.",
+      "translation": "女孩们：不，不是。"
+    },
+    {
+      "text": "GIRLS: Our cases are brown. Here they are.",
+      "translation": "女孩们：我们的箱子是棕色的。在这儿呢。"
+    },
+    {
+      "text": "CUSTOMS OFFICER: Are you tourists?",
+      "translation": "海关官员：你们是来旅游的吗？"
+    },
+    {
+      "text": "GIRLS: Yes, we are.",
+      "translation": "女孩们：是的，我们是。"
+    },
+    {
+      "text": "CUSTOMS OFFICER: Are your friends tourists, too?",
+      "translation": "海关官员：你们的朋友也是来旅游的吗？"
+    },
+    {
+      "text": "GIRLS: Yes, they are.",
+      "translation": "女孩们：是的，他们也是。"
+    },
+    {
+      "text": "CUSTOMS OFFICER: That's fine.",
+      "translation": "海关官员：好的。"
+    },
+    {
+      "text": "GIRLS: Thank you very much.",
+      "translation": "女孩们：非常感谢。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Customs",
+      "describe": "海关，负责出入境的检查工作。"
+    },
+    {
+      "title": "Passports",
+      "describe": "护照，用于证明持有人身份和国籍的文件。"
+    },
+    {
+      "title": "Tourists",
+      "describe": "旅游者，指前来旅游的游客。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "customs",
+      "pronunciation": "/ˈkʌstəmz/",
+      "type": "n.",
+      "definition": "海关"
+    },
+    {
+      "word": "officer",
+      "pronunciation": "/ˈɒfɪsə/",
+      "type": "n.",
+      "definition": "官员"
+    },
+    {
+      "word": "girl",
+      "pronunciation": "/ɡɜːl/",
+      "type": "n.",
+      "definition": "女孩"
+    },
+    {
+      "word": "Danish",
+      "pronunciation": "/ˈdeɪnɪʃ/",
+      "type": "adj. & n.",
+      "definition": "丹麦人"
+    },
+    {
+      "word": "Norwegian",
+      "pronunciation": "/nɔːˈwiːdʒən/",
+      "type": "adj. & n.",
+      "definition": "挪威人"
+    },
+    {
+      "word": "passport",
+      "pronunciation": "/ˈpæspɔːt/",
+      "type": "n.",
+      "definition": "护照"
+    },
+    {
+      "word": "brown",
+      "pronunciation": "/braʊn/",
+      "type": "adj.",
+      "definition": "棕色的"
+    },
+    {
+      "word": "tourist",
+      "pronunciation": "/ˈtʊərɪst/",
+      "type": "n.",
+      "definition": "旅游者"
+    }
+  ]
+}
