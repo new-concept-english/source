@@ -15,27 +15,19 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v3
+        with:
+          version: 9
+          # 使用 pnpm 安装依赖
+          run_install: true
 
       - name: Set up Node.js 20.13.1
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '20.13.1'
           cache: 'pnpm'
-
-      - name: Install pnpm
-        run: npm install -g pnpm@9.9.9
-
-      - name: Restore pnpm cache
-        uses: pnpm/action-setup@v2
-        with:
-          version: 9.9.9
-          run_install: false
-
-      - name: Install dependencies
-        run: pnpm install
-        env:
-          CI: true
 
       - name: Build project
         run: pnpm run build
@@ -49,12 +41,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Save pnpm cache
-        uses: actions/cache@v3
-        with:
-          path: |
-            ~/.pnpm-store
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
