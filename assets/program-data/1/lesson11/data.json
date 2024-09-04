@@ -1,0 +1,116 @@
+{
+  "title": "Lesson 11 Is this your shirt? 这是你的衬衫吗?",
+  "introduction": "Listen to the tape then answer this question. Whose shirt is white? 听录音，然后回答问题。谁的衬衣是白色的?",
+  "text_and_translation": [
+    {
+      "text": "TEACHER: Whose shirt is that?",
+      "translation": "老师：那是谁的衬衫？"
+    },
+    {
+      "text": "TEACHER: Is this your shirt, Dave?",
+      "translation": "老师：这是你的衬衫吗，戴夫？"
+    },
+    {
+      "text": "DAVE: No, sir.",
+      "translation": "戴夫：不，不是的，先生。"
+    },
+    {
+      "text": "DAVE: It's not my shirt.",
+      "translation": "戴夫：这不是我的衬衫。"
+    },
+    {
+      "text": "DAVE: This is my shirt.",
+      "translation": "戴夫：这是我的衬衫。"
+    },
+    {
+      "text": "DAVE: My shirt's blue.",
+      "translation": "戴夫：我的衬衫是蓝色的。"
+    },
+    {
+      "text": "TEACHER: Is this shirt Tim's?",
+      "translation": "老师：这件衬衫是蒂姆的吗？"
+    },
+    {
+      "text": "DAVE: Perhaps it is, sir.",
+      "translation": "戴夫：可能是的，先生。"
+    },
+    {
+      "text": "DAVE: Tim's shirt's white.",
+      "translation": "戴夫：蒂姆的衬衫是白色的。"
+    },
+    {
+      "text": "TEACHER: Tim!",
+      "translation": "老师：蒂姆！"
+    },
+    {
+      "text": "TIM: Yes, sir?",
+      "translation": "蒂姆：什么事，先生？"
+    },
+    {
+      "text": "TEACHER: Is this your shirt?",
+      "translation": "老师：这是你的衬衫吗？"
+    },
+    {
+      "text": "TIM: Yes, sir.",
+      "translation": "蒂姆：是的，先生。"
+    },
+    {
+      "text": "TEACHER: Here you are.",
+      "translation": "老师：给你。"
+    },
+    {
+      "text": "TEACHER: Catch!",
+      "translation": "老师：接着！"
+    },
+    {
+      "text": "TIM: Thank you, sir.",
+      "translation": "蒂姆：谢谢您，先生。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Whose",
+      "describe": "用来询问物品属于谁，后接名词。"
+    },
+    {
+      "title": "Is this your...",
+      "describe": "用来询问某物是否属于对方，后接名词。"
+    },
+    {
+      "title": "Perhaps",
+      "describe": "表示猜测或可能性，意为“可能”。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "whose",
+      "pronunciation": "/huːz/",
+      "type": "pron.",
+      "definition": "谁的"
+    },
+    {
+      "word": "shirt",
+      "pronunciation": "/ʃɜːt/",
+      "type": "n.",
+      "definition": "衬衫"
+    },
+    {
+      "word": "blue",
+      "pronunciation": "/bluː/",
+      "type": "adj.",
+      "definition": "蓝色的"
+    },
+    {
+      "word": "white",
+      "pronunciation": "/waɪt/",
+      "type": "adj.",
+      "definition": "白色的"
+    },
+    {
+      "word": "perhaps",
+      "pronunciation": "/pərˈhæps/",
+      "type": "adv.",
+      "definition": "可能，大概"
+    }
+  ]
+}
