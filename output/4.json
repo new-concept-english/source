@@ -2729,84 +2729,6 @@
       }
     }
   ],
-  "lesson20": [
-    {
-      "path": "assets/program-data/4/lesson20/tape-english/course.mp3",
-      "abbreviatedPath": "4/lesson20/tape-english/course.mp3",
-      "md5": "7a29b192e78fa2ceaeaaa2ff206b8a03057dfa9399b8e86161b5ef41db5c9b0b",
-      "fileName": "course.mp3",
-      "volume": "4",
-      "lesson": "lesson20",
-      "interface": {
-        "id": 22869,
-        "fileName": "course.mp3",
-        "time": "2024-09-03T20:53:50.776+08:00",
-        "url": "https://cdn.z.wiki/autoupload/20240903/vDnC/course.mp3",
-        "uid": "@new-concept-english/source",
-        "contentType": "application/octet-stream",
-        "shareCode": null,
-        "shareExpireDate": null,
-        "size": "3.01 MB"
-      }
-    },
-    {
-      "path": "assets/program-data/4/lesson20/tape-english/course.lrc",
-      "abbreviatedPath": "4/lesson20/tape-english/course.lrc",
-      "md5": "17111165af6ef18d858f2e30cd7923d4971ff77f2ee8effe9ce8376f7fe14bd1",
-      "fileName": "course.lrc",
-      "volume": "4",
-      "lesson": "lesson20",
-      "interface": {
-        "id": 22868,
-        "fileName": "course.lrc",
-        "time": "2024-09-03T20:53:45.969+08:00",
-        "url": "https://cdn.z.wiki/autoupload/20240903/Fztb/course.lrc",
-        "uid": "@new-concept-english/source",
-        "contentType": "application/octet-stream",
-        "shareCode": null,
-        "shareExpireDate": null,
-        "size": "2.49 KB"
-      }
-    },
-    {
-      "path": "assets/program-data/4/lesson20/tape-american-music/course.mp3",
-      "abbreviatedPath": "4/lesson20/tape-american-music/course.mp3",
-      "md5": "af61cc6f921b5e44512471c6042d1f02ba2a7acd14f9e23457747ad50a11d47f",
-      "fileName": "course.mp3",
-      "volume": "4",
-      "lesson": "lesson20",
-      "interface": {
-        "id": 22871,
-        "fileName": "course.mp3",
-        "time": "2024-09-03T20:53:53.280+08:00",
-        "url": "https://cdn.z.wiki/autoupload/20240903/TLip/course.mp3",
-        "uid": "@new-concept-english/source",
-        "contentType": "application/octet-stream",
-        "shareCode": null,
-        "shareExpireDate": null,
-        "size": "2.99 MB"
-      }
-    },
-    {
-      "path": "assets/program-data/4/lesson20/tape-american-music/course.lrc",
-      "abbreviatedPath": "4/lesson20/tape-american-music/course.lrc",
-      "md5": "15f09a91c9abc97a38e73f8c87dda2c1b71b882fa486c3e6f2e2c0495dafaf66",
-      "fileName": "course.lrc",
-      "volume": "4",
-      "lesson": "lesson20",
-      "interface": {
-        "id": 22870,
-        "fileName": "course.lrc",
-        "time": "2024-09-03T20:53:51.884+08:00",
-        "url": "https://cdn.z.wiki/autoupload/20240903/PGu8/course.lrc",
-        "uid": "@new-concept-english/source",
-        "contentType": "application/octet-stream",
-        "shareCode": null,
-        "shareExpireDate": null,
-        "size": "2.48 KB"
-      }
-    }
-  ],
   "lesson2": [
     {
       "path": "assets/program-data/4/lesson2/tape-english/course.mp3",
@@ -2882,6 +2804,84 @@
         "shareCode": null,
         "shareExpireDate": null,
         "size": "1.88 KB"
+      }
+    }
+  ],
+  "lesson20": [
+    {
+      "path": "assets/program-data/4/lesson20/tape-english/course.mp3",
+      "abbreviatedPath": "4/lesson20/tape-english/course.mp3",
+      "md5": "7a29b192e78fa2ceaeaaa2ff206b8a03057dfa9399b8e86161b5ef41db5c9b0b",
+      "fileName": "course.mp3",
+      "volume": "4",
+      "lesson": "lesson20",
+      "interface": {
+        "id": 22869,
+        "fileName": "course.mp3",
+        "time": "2024-09-03T20:53:50.776+08:00",
+        "url": "https://cdn.z.wiki/autoupload/20240903/vDnC/course.mp3",
+        "uid": "@new-concept-english/source",
+        "contentType": "application/octet-stream",
+        "shareCode": null,
+        "shareExpireDate": null,
+        "size": "3.01 MB"
+      }
+    },
+    {
+      "path": "assets/program-data/4/lesson20/tape-english/course.lrc",
+      "abbreviatedPath": "4/lesson20/tape-english/course.lrc",
+      "md5": "17111165af6ef18d858f2e30cd7923d4971ff77f2ee8effe9ce8376f7fe14bd1",
+      "fileName": "course.lrc",
+      "volume": "4",
+      "lesson": "lesson20",
+      "interface": {
+        "id": 22868,
+        "fileName": "course.lrc",
+        "time": "2024-09-03T20:53:45.969+08:00",
+        "url": "https://cdn.z.wiki/autoupload/20240903/Fztb/course.lrc",
+        "uid": "@new-concept-english/source",
+        "contentType": "application/octet-stream",
+        "shareCode": null,
+        "shareExpireDate": null,
+        "size": "2.49 KB"
+      }
+    },
+    {
+      "path": "assets/program-data/4/lesson20/tape-american-music/course.mp3",
+      "abbreviatedPath": "4/lesson20/tape-american-music/course.mp3",
+      "md5": "af61cc6f921b5e44512471c6042d1f02ba2a7acd14f9e23457747ad50a11d47f",
+      "fileName": "course.mp3",
+      "volume": "4",
+      "lesson": "lesson20",
+      "interface": {
+        "id": 22871,
+        "fileName": "course.mp3",
+        "time": "2024-09-03T20:53:53.280+08:00",
+        "url": "https://cdn.z.wiki/autoupload/20240903/TLip/course.mp3",
+        "uid": "@new-concept-english/source",
+        "contentType": "application/octet-stream",
+        "shareCode": null,
+        "shareExpireDate": null,
+        "size": "2.99 MB"
+      }
+    },
+    {
+      "path": "assets/program-data/4/lesson20/tape-american-music/course.lrc",
+      "abbreviatedPath": "4/lesson20/tape-american-music/course.lrc",
+      "md5": "15f09a91c9abc97a38e73f8c87dda2c1b71b882fa486c3e6f2e2c0495dafaf66",
+      "fileName": "course.lrc",
+      "volume": "4",
+      "lesson": "lesson20",
+      "interface": {
+        "id": 22870,
+        "fileName": "course.lrc",
+        "time": "2024-09-03T20:53:51.884+08:00",
+        "url": "https://cdn.z.wiki/autoupload/20240903/PGu8/course.lrc",
+        "uid": "@new-concept-english/source",
+        "contentType": "application/octet-stream",
+        "shareCode": null,
+        "shareExpireDate": null,
+        "size": "2.48 KB"
       }
     }
   ],
