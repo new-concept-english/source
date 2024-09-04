@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.3.0 (2024-09-04)
+
+
+### Features
+
+* 添加第一册17课内容 ([00f6c40](https://github.com/new-concept-english/source/commit/00f6c40db4fbee2140cf48e4a956055704bf65c4))
+
 ## 1.2.0 (2024-09-04)
 
 
