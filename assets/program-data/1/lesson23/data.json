@@ -1,0 +1,124 @@
+{
+  "title": "Lesson 25 Mrs. Smith's kitchen 史密斯太太的厨房",
+  "introduction": "Listen to the tape then answer this question. What colour is the electric cooker? 听录音，然后回答问题。电灶是什么颜色的?",
+  "text_and_translation": [
+    {
+      "text": "Mrs. Smith's kitchen is small.",
+      "translation": "史密斯夫人的厨房很小。"
+    },
+    {
+      "text": "There is a refrigerator in the kitchen.",
+      "translation": "厨房里有个电冰箱。"
+    },
+    {
+      "text": "The refrigerator is white. It is on the right.",
+      "translation": "冰箱是白色的。它位于房间右侧。"
+    },
+    {
+      "text": "There is an electric cooker in the kitchen.",
+      "translation": "厨房里有个电灶。"
+    },
+    {
+      "text": "The cooker is blue. It is on the left.",
+      "translation": "电灶是蓝色的。它位于房间左侧。"
+    },
+    {
+      "text": "There is a table in the middle of the room.",
+      "translation": "房间的中央有张桌子。"
+    },
+    {
+      "text": "There is a bottle on the table.",
+      "translation": "桌子上有个瓶子。"
+    },
+    {
+      "text": "The bottle is empty.",
+      "translation": "瓶子是空的。"
+    },
+    {
+      "text": "There is a cup on the table, too. The cup is clean.",
+      "translation": "桌子上还有一只杯子。杯子很干净。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "There is / There are",
+      "describe": "用于表达某地存在某物，单数用'There is'，复数用'There are'。"
+    },
+    {
+      "title": "on the right / on the left",
+      "describe": "表示物品相对于说话人或另一个参照物的方位。"
+    },
+    {
+      "title": "in the middle of",
+      "describe": "表示某物位于某个区域的中央位置。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "kitchen",
+      "pronunciation": "/ˈkɪtʃɪn/",
+      "type": "n.",
+      "definition": "厨房"
+    },
+    {
+      "word": "refrigerator",
+      "pronunciation": "/rɪˈfrɪdʒəreɪtər/",
+      "type": "n.",
+      "definition": "电冰箱"
+    },
+    {
+      "word": "right",
+      "pronunciation": "/raɪt/",
+      "type": "n.",
+      "definition": "右边"
+    },
+    {
+      "word": "electric cooker",
+      "pronunciation": "/ɪˈlɛktrɪk ˈkʊkə/",
+      "type": "n.",
+      "definition": "电灶"
+    },
+    {
+      "word": "left",
+      "pronunciation": "/lɛft/",
+      "type": "n.",
+      "definition": "左边"
+    },
+    {
+      "word": "middle",
+      "pronunciation": "/ˈmɪdəl/",
+      "type": "n.",
+      "definition": "中间"
+    },
+    {
+      "word": "table",
+      "pronunciation": "/ˈteɪbl/",
+      "type": "n.",
+      "definition": "桌子"
+    },
+    {
+      "word": "bottle",
+      "pronunciation": "/ˈbɒtl/",
+      "type": "n.",
+      "definition": "瓶子"
+    },
+    {
+      "word": "empty",
+      "pronunciation": "/ˈɛmpti/",
+      "type": "adj.",
+      "definition": "空的"
+    },
+    {
+      "word": "cup",
+      "pronunciation": "/kʌp/",
+      "type": "n.",
+      "definition": "杯子"
+    },
+    {
+      "word": "clean",
+      "pronunciation": "/kliːn/",
+      "type": "adj.",
+      "definition": "干净的"
+    }
+  ]
+}
