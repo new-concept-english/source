@@ -1,0 +1,116 @@
+{
+  "title": "Lesson 19 Tired and thirsty 又累又渴",
+  "introduction": "Listen to the tape then answer this question. Why do the children thank their mother? 听录音，然后回答问题。为什么孩子们向母亲致谢?",
+  "text_and_translation": [
+    {
+      "text": "MOTHER: What's the matter, children?",
+      "translation": "母亲：怎么了，孩子们？"
+    },
+    {
+      "text": "GIRL: We're tired.",
+      "translation": "女孩：我们累了。"
+    },
+    {
+      "text": "BOY: ...and thirsty, Mum.",
+      "translation": "男孩：……还有点渴，妈妈。"
+    },
+    {
+      "text": "MOTHER: Sit down here.",
+      "translation": "母亲：在这儿坐下。"
+    },
+    {
+      "text": "MOTHER: Are you all right now?",
+      "translation": "母亲：你们现在好些了吗？"
+    },
+    {
+      "text": "BOY: No, we aren't.",
+      "translation": "男孩：不，还没有。"
+    },
+    {
+      "text": "MOTHER: Look! There's an ice cream man.",
+      "translation": "母亲：看！有个卖冰淇淋的。"
+    },
+    {
+      "text": "MOTHER: Two ice creams, please.",
+      "translation": "母亲：请拿两份冰淇淋。"
+    },
+    {
+      "text": "MOTHER: Here you are, children.",
+      "translation": "母亲：拿着，孩子们。"
+    },
+    {
+      "text": "CHILDREN: Thanks, Mum.",
+      "translation": "孩子们：谢谢妈妈。"
+    },
+    {
+      "text": "GIRL: These ice creams are nice.",
+      "translation": "女孩：这些冰淇淋真好吃。"
+    },
+    {
+      "text": "MOTHER: Are you all right now?",
+      "translation": "母亲：你们现在好了吗？"
+    },
+    {
+      "text": "CHILDREN: Yes, we are, thank you!",
+      "translation": "孩子们：是的，现在好了，谢谢您！"
+    }
+  ],
+  "notes": [
+    {
+      "title": "What's the matter?",
+      "describe": "询问某人有什么问题或怎么了。"
+    },
+    {
+      "title": "tired and thirsty",
+      "describe": "表达累和渴的状态，通常用来描述需要休息和饮水的情况。"
+    },
+    {
+      "title": "Thanks, Mum.",
+      "describe": "感谢的表达方式，用于对母亲表示感谢。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "matter",
+      "pronunciation": "/ˈmætə/",
+      "type": "n.",
+      "definition": "事情"
+    },
+    {
+      "word": "tired",
+      "pronunciation": "/ˈtaɪəd/",
+      "type": "adj.",
+      "definition": "累的"
+    },
+    {
+      "word": "thirsty",
+      "pronunciation": "/ˈθɜːsti/",
+      "type": "adj.",
+      "definition": "渴的"
+    },
+    {
+      "word": "sit down",
+      "pronunciation": "/sɪt daʊn/",
+      "type": "phr.",
+      "definition": "坐下"
+    },
+    {
+      "word": "right",
+      "pronunciation": "/raɪt/",
+      "type": "adj.",
+      "definition": "好，可以"
+    },
+    {
+      "word": "ice cream",
+      "pronunciation": "/ˈaɪs kriːm/",
+      "type": "n.",
+      "definition": "冰淇淋"
+    },
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    }
+  ]
+}
