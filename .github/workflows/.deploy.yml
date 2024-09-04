@@ -45,3 +45,20 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create and push tag
+        run: pnpm run release -- release-as patch --tag-force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push tags to GitHub
+        run: git push --follow-tags origin HEAD
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to npm
+        run: pnpm publish --access public
+        if: success()
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
