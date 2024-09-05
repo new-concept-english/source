@@ -15,8 +15,6 @@ npm i @boses/source
 使用方式
 
 ```js
-import volume1 from '@boses/source/1.json';
-// or
 import { volume1, volume2, volume3, volume4 } from '@boses/source';
 ```
 

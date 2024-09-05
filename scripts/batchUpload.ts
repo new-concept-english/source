@@ -3,13 +3,15 @@
  */
 
 import { glob } from 'glob';
-import { createdMd5, groupBy, runParallel } from './utils';
+import { createdMd5, createEStemplate, groupBy, runParallel } from './utils';
 import path from 'node:path';
 import { JSONFilePreset } from 'lowdb/node';
 import axios, { AxiosError } from 'axios';
 import { fileFromPath } from 'formdata-node/file-from-path';
-// import { createRequire } from 'node:module';
-import { writeFile } from 'node:fs/promises';
+import { createRequire } from 'node:module';
+import fs from 'fs-extra';
+
+const require = createRequire(import.meta.url);
 
 /*
  * 缓存数据库
@@ -20,7 +22,6 @@ const hashcatchPath = path.join(process.cwd(), 'scripts/hashcatch.json');
 
 const hashcatchDb = await JSONFilePreset<Hashcatch>(hashcatchPath, {});
 const uid = `@new-concept-english/source`;
-// const require = createRequire(import.meta.url);
 
 // const { name } = require('../package.json');
 
@@ -89,7 +90,7 @@ if (!difference.length) {
 const writeWaitingArray: unknown[] = [];
 
 await runParallel(difference, {
-  maxConcurrency: 5,
+  maxConcurrency: 4,
   waitingTime: 1000,
   iteratorFn(item, index, total) {
     return upload(item).then((res) => {
@@ -118,6 +119,9 @@ export interface Type {
   lrc: Base;
   mp3: Base;
 }
+
+type Additional = Pick<Base, 'md5'> & { lesson: number; title: string };
+
 export interface Lesson {
   /* 英音 */
   tapeEnglish: Type;
@@ -127,7 +131,16 @@ export interface Lesson {
   illustration: unknown;
   /* 课文 */
   text: Base;
+  /*
+   * 还需要包含一些附加信息
+   */
+  additional: Additional;
 }
+
+/*
+ * 构建的时候清理之前文件
+ */
+await fs.remove(path.join(process.cwd(), 'output'));
 
 await Promise.all(
   Object.entries(volumeAll).map(([key, value]) => {
@@ -140,11 +153,18 @@ await Promise.all(
      */
     const content = Object.entries(lesson).reduce(
       (obj, [key, value]) => {
+        const lessonNumber = +(key.match(/\d+/)?.[0] || 1);
         const c = value.reduce((o, v) => {
           const { dir, ext } = path.parse(v.path);
           switch (ext) {
             case '.json':
               o['text'] = v;
+              o.additional = {
+                md5: v.md5,
+                lesson: lessonNumber,
+                title: require(path.join(process.cwd(), v.path))?.title,
+              };
+
               break;
             case '.mp3':
             case '.lrc': {
@@ -162,15 +182,15 @@ await Promise.all(
           }
           return o;
         }, {} as Lesson);
-        obj[key] = c;
+        obj[lessonNumber] = c;
         return obj;
       },
       {} as Record<string, Lesson>,
     );
 
-    return writeFile(
-      path.join(process.cwd(), 'output', `${key}.json`),
-      JSON.stringify(content, null, 2),
+    return fs.outputFile(
+      path.join(process.cwd(), 'output', `${key}.ts`),
+      createEStemplate(JSON.stringify(content, null, 2)),
     );
   }),
 );
@@ -181,13 +201,11 @@ async function upload(file: Base) {
   form.append('fileName', file.fileName);
   form.append('file', await fileFromPath(file.path));
   form.append('uid', uid);
-
   try {
     const { data } = await axios.post<Interface>(
       `https://playground.z.wiki/img/upload`,
       form,
     );
-
     return data;
   } catch (e) {
     if (e instanceof AxiosError) {

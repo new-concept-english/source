@@ -5,12 +5,14 @@ on:
     branches:
       - master
     paths:
-      - 'assets/**'
+      - 'assets/program-data/**'
+      - 'scripts/**'
   pull_request:
     branches:
       - master
     paths:
-      - 'assets/**'
+      - 'assets/program-data/**'
+      - 'scripts/**'
 
 jobs:
   build:

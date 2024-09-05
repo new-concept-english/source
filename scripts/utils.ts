@@ -79,3 +79,7 @@ export function groupBy<T, K extends T[keyof T] & (string | number | symbol)>(
     {} as Record<K, T[]>,
   );
 }
+
+export const createEStemplate = (content: string) => {
+  return `export default ${content}`;
+};
