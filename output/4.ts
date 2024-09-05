@@ -2,8 +2,8 @@ export default {
   "1": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson1\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson1\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson1/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson1/tape-english/course.mp3",
         "md5": "accc4f1123109be859cfd155b315421384a851077f8b29e968f9015b4a648552",
         "fileName": "course.mp3",
         "volume": "4",
@@ -21,8 +21,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson1\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson1\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson1/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson1/tape-english/course.lrc",
         "md5": "43fc6b0930fdbc89a1f07582f8c67791e1924c26ac03083b511cd03555ebd2cd",
         "fileName": "course.lrc",
         "volume": "4",
@@ -42,8 +42,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson1\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson1\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson1/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson1/tape-american-music/course.mp3",
         "md5": "d5cae55e16a2c4aa046d0b68381d9e249b1c41ebe12414f48122e73cf94ee90e",
         "fileName": "course.mp3",
         "volume": "4",
@@ -61,8 +61,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson1\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson1\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson1/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson1/tape-american-music/course.lrc",
         "md5": "770c9f2234e18e382905f286a45778101f5bcdf51b39d54c87f77c70d5c337cd",
         "fileName": "course.lrc",
         "volume": "4",
@@ -84,8 +84,8 @@ export default {
   "2": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson2\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson2\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson2/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson2/tape-english/course.mp3",
         "md5": "369219840ada04097541cd81b1bac2f9a38250b65d372acd270f96f1affcb9aa",
         "fileName": "course.mp3",
         "volume": "4",
@@ -103,8 +103,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson2\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson2\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson2/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson2/tape-english/course.lrc",
         "md5": "5fac2f34d00eadc66ee891786c3f84621620b7ffa738fbefa5e1f02b7262fdd9",
         "fileName": "course.lrc",
         "volume": "4",
@@ -124,8 +124,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson2\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson2\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson2/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson2/tape-american-music/course.mp3",
         "md5": "143127b5001145ddb3e8057abd53aee15f51aeb5743e8182eee6e12eb6017dee",
         "fileName": "course.mp3",
         "volume": "4",
@@ -143,8 +143,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson2\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson2\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson2/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson2/tape-american-music/course.lrc",
         "md5": "eed87ba15cd7e6a17926643abbb83e49f80efae3e90126067237e6d2b9670c87",
         "fileName": "course.lrc",
         "volume": "4",
@@ -166,8 +166,8 @@ export default {
   "3": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson3\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson3\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson3/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson3/tape-english/course.mp3",
         "md5": "d764d68f301e15cf350e999ad5470260d2981890c933d538b56b679baf593591",
         "fileName": "course.mp3",
         "volume": "4",
@@ -185,8 +185,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson3\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson3\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson3/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson3/tape-english/course.lrc",
         "md5": "efaf0ae9ddab336fc0a1f85124b30afa52f8908f0b2f457083229d3c59d257d7",
         "fileName": "course.lrc",
         "volume": "4",
@@ -206,8 +206,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson3\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson3\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson3/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson3/tape-american-music/course.mp3",
         "md5": "ed6735269aad6284465e203d747dfeb3d9a8ee3a2cf585788b728625e3512c71",
         "fileName": "course.mp3",
         "volume": "4",
@@ -225,8 +225,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson3\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson3\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson3/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson3/tape-american-music/course.lrc",
         "md5": "3ab33ced6517b30fb9f780c4cd608767e12f6da5b9ce59cde80e373a4d865460",
         "fileName": "course.lrc",
         "volume": "4",
@@ -248,8 +248,8 @@ export default {
   "4": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson4\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson4\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson4/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson4/tape-english/course.mp3",
         "md5": "6b59e56e79886b5d7e038e39df2f63d3c3362945458a3d31f1d844301e91f59e",
         "fileName": "course.mp3",
         "volume": "4",
@@ -267,8 +267,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson4\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson4\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson4/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson4/tape-english/course.lrc",
         "md5": "c40a8587d5a3826affe708e6dad0bf08a8d53c348fb8a2fa75d0f32108c9916a",
         "fileName": "course.lrc",
         "volume": "4",
@@ -288,8 +288,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson4\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson4\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson4/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson4/tape-american-music/course.mp3",
         "md5": "bed5584914c6293f50c5b422590a27e4ddf057436ffdcb73a8c17493e8c11f6e",
         "fileName": "course.mp3",
         "volume": "4",
@@ -307,8 +307,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson4\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson4\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson4/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson4/tape-american-music/course.lrc",
         "md5": "354961a551aff9d35578174bdd17d05025df12a24e4d6c418266032abd5af61c",
         "fileName": "course.lrc",
         "volume": "4",
@@ -330,8 +330,8 @@ export default {
   "5": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson5\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson5\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson5/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson5/tape-english/course.mp3",
         "md5": "febf355e41f9f52d265f194d6aabcf60439e4de2e6a25824657c9c9f33803360",
         "fileName": "course.mp3",
         "volume": "4",
@@ -349,8 +349,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson5\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson5\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson5/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson5/tape-english/course.lrc",
         "md5": "1f3d2544d959b6339b58ddbee40f8658fb9259685f84d02bcdeb2463add5405b",
         "fileName": "course.lrc",
         "volume": "4",
@@ -370,8 +370,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson5\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson5\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson5/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson5/tape-american-music/course.mp3",
         "md5": "38cc6e3abbc5b3e85077096249fa17dc88b8e4d33a287b238ecfe03b37817b24",
         "fileName": "course.mp3",
         "volume": "4",
@@ -389,8 +389,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson5\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson5\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson5/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson5/tape-american-music/course.lrc",
         "md5": "5ab8d1b0fb7703e30e56e32a1d7e21a716e6e17cb3db8935c7ae9ded1a83429d",
         "fileName": "course.lrc",
         "volume": "4",
@@ -412,8 +412,8 @@ export default {
   "6": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson6\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson6\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson6/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson6/tape-english/course.mp3",
         "md5": "5ee74a25902659e8d7a7eadaf27f65e2c7a73ec6029b1a5014b3d45c40cecb80",
         "fileName": "course.mp3",
         "volume": "4",
@@ -431,8 +431,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson6\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson6\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson6/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson6/tape-english/course.lrc",
         "md5": "e3183001be1f0d6fe64294a4258f54ef43f6e3ad1476659031223aac4cb9fc66",
         "fileName": "course.lrc",
         "volume": "4",
@@ -452,8 +452,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson6\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson6\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson6/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson6/tape-american-music/course.mp3",
         "md5": "d6eac1236f661b2b6bf452c6e3d93e25d6c9c54881684374eca94b0c9cc10d96",
         "fileName": "course.mp3",
         "volume": "4",
@@ -471,8 +471,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson6\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson6\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson6/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson6/tape-american-music/course.lrc",
         "md5": "9c76ba341bc56da5dd65b505730dec924cd20e932b642a6e927a334b26e60c12",
         "fileName": "course.lrc",
         "volume": "4",
@@ -494,8 +494,8 @@ export default {
   "7": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson7\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson7\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson7/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson7/tape-english/course.mp3",
         "md5": "607a3bc7fa9257f10d633f5a18cf2d80f1e0a87c85b013b94eca9e08e58ea9f4",
         "fileName": "course.mp3",
         "volume": "4",
@@ -513,8 +513,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson7\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson7\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson7/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson7/tape-english/course.lrc",
         "md5": "d022fd3d7323cc41dc370090debc2ddd095111621ebcd3a549c27bb17f301dea",
         "fileName": "course.lrc",
         "volume": "4",
@@ -534,8 +534,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson7\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson7\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson7/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson7/tape-american-music/course.mp3",
         "md5": "2df700680f5435acab36f238ec1739cd81ee16d7e06aee71161dda7a17b02e58",
         "fileName": "course.mp3",
         "volume": "4",
@@ -553,8 +553,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson7\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson7\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson7/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson7/tape-american-music/course.lrc",
         "md5": "508146c7c3a86c8132ad33db3a3589328d8b0920d89c5466ffc74316c50cdd75",
         "fileName": "course.lrc",
         "volume": "4",
@@ -576,8 +576,8 @@ export default {
   "8": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson8\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson8\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson8/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson8/tape-english/course.mp3",
         "md5": "7e0d40d3b02b793a3d48177ac8ea98602ff8f66d872af8cce7c427fe7d04cf1f",
         "fileName": "course.mp3",
         "volume": "4",
@@ -595,8 +595,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson8\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson8\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson8/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson8/tape-english/course.lrc",
         "md5": "f13082a6ebf1a8c381ce31075d437cf0fd1865c79aafd89273c3bb33694f50a2",
         "fileName": "course.lrc",
         "volume": "4",
@@ -616,8 +616,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson8\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson8\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson8/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson8/tape-american-music/course.mp3",
         "md5": "d46a96a0179b0019096626ecfe0321c860576353fcbfe722ed45bc932aafad35",
         "fileName": "course.mp3",
         "volume": "4",
@@ -635,8 +635,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson8\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson8\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson8/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson8/tape-american-music/course.lrc",
         "md5": "66e5ecea7528afacdb14edca8f8b513f27da438ed1bc09a5faecc4e798682b57",
         "fileName": "course.lrc",
         "volume": "4",
@@ -658,8 +658,8 @@ export default {
   "9": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson9\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson9\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson9/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson9/tape-english/course.mp3",
         "md5": "162b71667b92f668fed02be15b226db6206b1770904db3f9ef69f03182e35957",
         "fileName": "course.mp3",
         "volume": "4",
@@ -677,8 +677,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson9\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson9\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson9/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson9/tape-english/course.lrc",
         "md5": "dfc14c6c50140e113478a55652d73121a6a2fef22fdbc8b7ec5241c6f1cb36c0",
         "fileName": "course.lrc",
         "volume": "4",
@@ -698,8 +698,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson9\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson9\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson9/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson9/tape-american-music/course.mp3",
         "md5": "0a6ec88ae688352b60f069d9d97b6061b1715c4be0af6ec43a493144f1af89ca",
         "fileName": "course.mp3",
         "volume": "4",
@@ -717,8 +717,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson9\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson9\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson9/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson9/tape-american-music/course.lrc",
         "md5": "c2c795a73dfab0bdc9620e57acb77e1d6eb369ee7cbb5689847f2f52b93ccb25",
         "fileName": "course.lrc",
         "volume": "4",
@@ -740,8 +740,8 @@ export default {
   "10": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson10\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson10\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson10/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson10/tape-english/course.mp3",
         "md5": "9f84b4e117ac6ec3bd3685a5349fce9c6c246fcd8f9dcd9aeeb07731584e229b",
         "fileName": "course.mp3",
         "volume": "4",
@@ -759,8 +759,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson10\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson10\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson10/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson10/tape-english/course.lrc",
         "md5": "f654627ee1c24e1b392c484e1d27b79922bad66a5727849e8879e6918edc707f",
         "fileName": "course.lrc",
         "volume": "4",
@@ -780,8 +780,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson10\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson10\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson10/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson10/tape-american-music/course.mp3",
         "md5": "5cfa58f919940443aea33b1afb23cdd7ea452f6c9daa2f48e2ed1769983c9e84",
         "fileName": "course.mp3",
         "volume": "4",
@@ -799,8 +799,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson10\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson10\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson10/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson10/tape-american-music/course.lrc",
         "md5": "6fedd7d483273e865fa04c8116ee5cdfe56ab440ca3f3975a2c553b2e6298218",
         "fileName": "course.lrc",
         "volume": "4",
@@ -822,8 +822,8 @@ export default {
   "11": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson11\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson11\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson11/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson11/tape-english/course.mp3",
         "md5": "e58b8fe3edfec4a0d41d2ecbcf32f7a570b5f404eaf8dac0b1d8869e348018b9",
         "fileName": "course.mp3",
         "volume": "4",
@@ -841,8 +841,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson11\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson11\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson11/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson11/tape-english/course.lrc",
         "md5": "625ed7e4437082c714c728c0b0812c3e6b4331c584bc2ffd3107cbfe9b099944",
         "fileName": "course.lrc",
         "volume": "4",
@@ -862,8 +862,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson11\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson11\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson11/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson11/tape-american-music/course.mp3",
         "md5": "037fcdf2aa889cbf342c6f9bfd3644ecbb05f2536ad3a90128114f26b5f95736",
         "fileName": "course.mp3",
         "volume": "4",
@@ -881,8 +881,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson11\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson11\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson11/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson11/tape-american-music/course.lrc",
         "md5": "9beb2fa7badb3d0b85d50316e7fe43976b1b18342d6eaeb986426fe6f0acdba9",
         "fileName": "course.lrc",
         "volume": "4",
@@ -904,8 +904,8 @@ export default {
   "12": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson12\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson12\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson12/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson12/tape-english/course.mp3",
         "md5": "0b63ccdb58067bc9808f56bcc44116f3c53798b268199c65eff4e7e9470cbb34",
         "fileName": "course.mp3",
         "volume": "4",
@@ -923,8 +923,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson12\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson12\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson12/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson12/tape-english/course.lrc",
         "md5": "3f6dfada0725edbbbb210d58b35975d7125c0c970f9af76f1cb5151d0a6d1b6e",
         "fileName": "course.lrc",
         "volume": "4",
@@ -944,8 +944,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson12\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson12\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson12/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson12/tape-american-music/course.mp3",
         "md5": "4897fff7c5c5fe75ec1e53e4f109e5e9d8c1c52e507d22a926b2e9f3ecf1d400",
         "fileName": "course.mp3",
         "volume": "4",
@@ -963,8 +963,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson12\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson12\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson12/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson12/tape-american-music/course.lrc",
         "md5": "8a78a918ae7cec34c476000099452227fa8c5111c7b96460cc13e808bc5355a8",
         "fileName": "course.lrc",
         "volume": "4",
@@ -986,8 +986,8 @@ export default {
   "13": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson13\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson13\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson13/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson13/tape-english/course.mp3",
         "md5": "6dd5bce5dc4f88c7ec056ac489b0e8fe49b6cd0faf64846016cfbecc46503d78",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1005,8 +1005,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson13\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson13\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson13/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson13/tape-english/course.lrc",
         "md5": "915ef28fe9876d7dbb02572dbb6d46aa7f73cbea2b2630958218652bf93074fd",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1026,8 +1026,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson13\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson13\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson13/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson13/tape-american-music/course.mp3",
         "md5": "f5322b75d01f858a0b88092cc606a8ea73a1344ad4885bdd57af7642098e6ae5",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1045,8 +1045,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson13\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson13\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson13/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson13/tape-american-music/course.lrc",
         "md5": "016fcab3ea3c8f6472fc421704c61fcc3af4cb79286f0e116901093f33c69030",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1068,8 +1068,8 @@ export default {
   "14": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson14\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson14\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson14/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson14/tape-english/course.mp3",
         "md5": "1d97577f157690dc5b8ae3dec3df3fc965b52f4a7bc6578aababd183b76cfe99",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1087,8 +1087,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson14\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson14\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson14/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson14/tape-english/course.lrc",
         "md5": "2d3425c747f4df4b35e77195a7548bf13f314d9068672468709afc43c2f0220a",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1108,8 +1108,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson14\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson14\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson14/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson14/tape-american-music/course.mp3",
         "md5": "a323564d8ef41a8b7cad42aa54fe6eaab6951ccec4c206c957cf5e28ed74b1bc",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1127,8 +1127,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson14\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson14\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson14/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson14/tape-american-music/course.lrc",
         "md5": "d8c27f147df65029f8f3a540661f56017e480cce27aa17596a32923fd70d73e2",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1150,8 +1150,8 @@ export default {
   "15": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson15\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson15\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson15/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson15/tape-english/course.mp3",
         "md5": "e1c2ef4672e2cc02b215acda08362542e3897629340c3e67ac3eb1806fa4ad89",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1169,8 +1169,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson15\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson15\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson15/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson15/tape-english/course.lrc",
         "md5": "37a3d9d500ae1bfa0eba24749caac1e076c0554eaedb2e39a3078c83983fc0c1",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1190,8 +1190,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson15\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson15\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson15/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson15/tape-american-music/course.mp3",
         "md5": "ac0e1093fcd662cc4b79d9eb193d00de1585bd8a2b72884769a17e564143fb73",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1209,8 +1209,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson15\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson15\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson15/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson15/tape-american-music/course.lrc",
         "md5": "7e6f1530d7c71192628ce0671882e8adb88ac9508f5844d54acecbd5e3fb8dfe",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1232,8 +1232,8 @@ export default {
   "16": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson16\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson16\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson16/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson16/tape-english/course.mp3",
         "md5": "6b9e245afb70705fba339e0fec1f013aa806d161933190fc0106482eb7b9854c",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1251,8 +1251,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson16\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson16\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson16/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson16/tape-english/course.lrc",
         "md5": "79ee9aeafe84c01a4fe715a15d60664017401611708eed5ba451edfb467c42a6",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1272,8 +1272,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson16\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson16\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson16/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson16/tape-american-music/course.mp3",
         "md5": "e312c4337e5cf451a552f341d050026a6aafaacf0d57f578d202a8a1d03fcd0d",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1291,8 +1291,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson16\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson16\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson16/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson16/tape-american-music/course.lrc",
         "md5": "f270dfb1516f69e023a44d8c5ac5cd1c116f37c9678a523d8061a18db0822036",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1314,8 +1314,8 @@ export default {
   "17": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson17\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson17\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson17/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson17/tape-english/course.mp3",
         "md5": "3351e1d20487931e5478db9731f460ae85a550186e287e321d7d47d8873aed7c",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1333,8 +1333,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson17\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson17\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson17/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson17/tape-english/course.lrc",
         "md5": "fedce7001439ac58706100057c8103e1336a5ab6171630206d183cb881ca391b",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1354,8 +1354,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson17\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson17\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson17/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson17/tape-american-music/course.mp3",
         "md5": "5db4b8989e20308cdcb3fcca2d40fc98b59147ef4e2e4997315257849e27b1a1",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1373,8 +1373,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson17\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson17\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson17/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson17/tape-american-music/course.lrc",
         "md5": "980f90141270cc42b500a8219cf2b05445ac2eb58d57a06672b417af18e9f721",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1396,8 +1396,8 @@ export default {
   "18": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson18\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson18\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson18/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson18/tape-english/course.mp3",
         "md5": "6b83438f93daaca100709a1898aee8357b05a3b80749f3fa4909f6f888e61bde",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1415,8 +1415,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson18\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson18\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson18/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson18/tape-english/course.lrc",
         "md5": "d9192d678f58c58b2b914d63b038b551f6ac8cd76aefe5237e2d833a7396b1b9",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1436,8 +1436,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson18\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson18\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson18/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson18/tape-american-music/course.mp3",
         "md5": "5d1dcb5406045ae2f9c65111ffbb369ca41375da4491ba2a17af56dc2d084ed7",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1455,8 +1455,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson18\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson18\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson18/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson18/tape-american-music/course.lrc",
         "md5": "5def5f07b716a577267b27437b99c336ead5ab80af58693b4854815371c59f05",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1478,8 +1478,8 @@ export default {
   "19": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson19\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson19\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson19/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson19/tape-english/course.mp3",
         "md5": "7e92e811fa309fe6f06a8d2f660ee2f7acf7729d283d628a8aea855490a221fc",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1497,8 +1497,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson19\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson19\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson19/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson19/tape-english/course.lrc",
         "md5": "1fe7509e561a6de5a7e9e82c667cbd664e1b01dc24cf2928db596840fcd5e0a9",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1518,8 +1518,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson19\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson19\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson19/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson19/tape-american-music/course.mp3",
         "md5": "116a017f12d00c399a3b1e27aa03807e790683afc86b7581c5f150758203ab5c",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1537,8 +1537,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson19\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson19\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson19/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson19/tape-american-music/course.lrc",
         "md5": "a86a9c64cefc54ee6915a8eee75bb85fe95737aefa0ce341c4d1e3c8218bf644",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1560,8 +1560,8 @@ export default {
   "20": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson20\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson20\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson20/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson20/tape-english/course.mp3",
         "md5": "7a29b192e78fa2ceaeaaa2ff206b8a03057dfa9399b8e86161b5ef41db5c9b0b",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1579,8 +1579,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson20\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson20\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson20/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson20/tape-english/course.lrc",
         "md5": "17111165af6ef18d858f2e30cd7923d4971ff77f2ee8effe9ce8376f7fe14bd1",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1600,8 +1600,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson20\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson20\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson20/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson20/tape-american-music/course.mp3",
         "md5": "af61cc6f921b5e44512471c6042d1f02ba2a7acd14f9e23457747ad50a11d47f",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1619,8 +1619,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson20\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson20\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson20/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson20/tape-american-music/course.lrc",
         "md5": "15f09a91c9abc97a38e73f8c87dda2c1b71b882fa486c3e6f2e2c0495dafaf66",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1642,8 +1642,8 @@ export default {
   "21": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson21\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson21\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson21/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson21/tape-english/course.mp3",
         "md5": "a719f99532e207d6ee7a5e1e7f5bef4233c9a304a93dd6555f565fd912c9f96d",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1661,8 +1661,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson21\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson21\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson21/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson21/tape-english/course.lrc",
         "md5": "3d24ac90c71a46938d268704994f65b637e9a50462f1a95258e295604d3caf46",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1682,8 +1682,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson21\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson21\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson21/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson21/tape-american-music/course.mp3",
         "md5": "f093be273b3727fcd0242806a3d16788e45babe35c1af5ffb05fcc2cbee0d8b1",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1701,8 +1701,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson21\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson21\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson21/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson21/tape-american-music/course.lrc",
         "md5": "632e1ad1505ec8bffdac880aaebb1fc2be6e7dc7a393a044dcf60479504ba02f",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1724,8 +1724,8 @@ export default {
   "22": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson22\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson22\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson22/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson22/tape-english/course.mp3",
         "md5": "d1d4e7004e36def0dcc5860bdb2aaee9dab06ce40941cf81dc0361c2498eb4ff",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1743,8 +1743,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson22\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson22\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson22/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson22/tape-english/course.lrc",
         "md5": "74f18fe7a1dfe3d530b4bb4e8a7ec2c1436d1b57a5b5506324820918d4d5e23f",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1764,8 +1764,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson22\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson22\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson22/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson22/tape-american-music/course.mp3",
         "md5": "24449c4dd7aa57dd3588945093731948384e0f8d281b8f10336df6a6e4610faf",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1783,8 +1783,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson22\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson22\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson22/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson22/tape-american-music/course.lrc",
         "md5": "1a802301afd9a42db064c7d37c2a0bb46fbc0230e342221ce5c9fec25094b5ad",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1806,8 +1806,8 @@ export default {
   "23": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson23\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson23\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson23/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson23/tape-english/course.mp3",
         "md5": "39797c56c908ecc6a7af44b91a352a52c7515156f11809f7400a41873ab58ef7",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1825,8 +1825,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson23\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson23\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson23/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson23/tape-english/course.lrc",
         "md5": "3cf9a022e194565882a94370cb70fc332587db879341752953a4e16c4480ad51",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1846,8 +1846,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson23\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson23\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson23/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson23/tape-american-music/course.mp3",
         "md5": "c0da365e24ce6d04e57b82ce81eb4273e57d4e5a8c26e4d477525f70fce70965",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1865,8 +1865,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson23\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson23\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson23/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson23/tape-american-music/course.lrc",
         "md5": "df7cfe2178472631baa0a1cca037a796e37ff50b27591ab44b2a565ecaa7abd7",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1888,8 +1888,8 @@ export default {
   "24": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson24\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson24\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson24/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson24/tape-english/course.mp3",
         "md5": "cb1001b14fd49acf5ee94504831f0c9bbe8a3773fc1865f70f74686d37e86956",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1907,8 +1907,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson24\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson24\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson24/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson24/tape-english/course.lrc",
         "md5": "76c1295a98dad094dc0579d12c7d74b0511006b7d243c939277c8f62c3823e97",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1928,8 +1928,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson24\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson24\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson24/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson24/tape-american-music/course.mp3",
         "md5": "c928909863d30ed40d76c20193cbfd1512f06913a5163f53432be856a02a2fa0",
         "fileName": "course.mp3",
         "volume": "4",
@@ -1947,8 +1947,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson24\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson24\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson24/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson24/tape-american-music/course.lrc",
         "md5": "1c429203741f0bbbcfd85b2b0ac7cd059fc728d5b0a03d067e2c03053f112ba1",
         "fileName": "course.lrc",
         "volume": "4",
@@ -1968,50 +1968,10 @@ export default {
     }
   },
   "25": {
-    "tapeAmericanMusic": {
-      "mp3": {
-        "path": "assets\\program-data\\4\\lesson25\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson25\\tape-american-music\\course.mp3",
-        "md5": "50dd4b6f36a0947cc12f6facf125c8bf507f0f56afcb100adadaee84279e91a1",
-        "fileName": "course.mp3",
-        "volume": "4",
-        "lesson": "lesson25",
-        "interface": {
-          "id": 22851,
-          "fileName": "course.mp3",
-          "time": "2024-09-03T20:53:08.833+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/FfPI/course.mp3",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "3.78 MB"
-        }
-      },
-      "lrc": {
-        "path": "assets\\program-data\\4\\lesson25\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson25\\tape-american-music\\course.lrc",
-        "md5": "22909f04a3d234bd9f6f4ac6acc4667d33b97904e146c47af8c0801835631162",
-        "fileName": "course.lrc",
-        "volume": "4",
-        "lesson": "lesson25",
-        "interface": {
-          "id": 22850,
-          "fileName": "course.lrc",
-          "time": "2024-09-03T20:53:04.213+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/KoDI/course.lrc",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "3.06 KB"
-        }
-      }
-    },
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson25\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson25\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson25/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson25/tape-english/course.mp3",
         "md5": "490b5cda7a8d2110814a951c042cf183376ee1e4c9f6085e4f6c724c97a1fd7f",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2029,8 +1989,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson25\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson25\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson25/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson25/tape-english/course.lrc",
         "md5": "c74d3e80765a686ee0c1684a1f1122909a85590c8ef347a2d983f0da0fc8b6cd",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2047,13 +2007,53 @@ export default {
           "size": "3.08 KB"
         }
       }
+    },
+    "tapeAmericanMusic": {
+      "mp3": {
+        "path": "assets/program-data/4/lesson25/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson25/tape-american-music/course.mp3",
+        "md5": "50dd4b6f36a0947cc12f6facf125c8bf507f0f56afcb100adadaee84279e91a1",
+        "fileName": "course.mp3",
+        "volume": "4",
+        "lesson": "lesson25",
+        "interface": {
+          "id": 22851,
+          "fileName": "course.mp3",
+          "time": "2024-09-03T20:53:08.833+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/FfPI/course.mp3",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "3.78 MB"
+        }
+      },
+      "lrc": {
+        "path": "assets/program-data/4/lesson25/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson25/tape-american-music/course.lrc",
+        "md5": "22909f04a3d234bd9f6f4ac6acc4667d33b97904e146c47af8c0801835631162",
+        "fileName": "course.lrc",
+        "volume": "4",
+        "lesson": "lesson25",
+        "interface": {
+          "id": 22850,
+          "fileName": "course.lrc",
+          "time": "2024-09-03T20:53:04.213+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/KoDI/course.lrc",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "3.06 KB"
+        }
+      }
     }
   },
   "26": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson26\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson26\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson26/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson26/tape-english/course.mp3",
         "md5": "e0cf5c274d6441c26d1d3fa77682395d60776fa13cc0f139cb7527e9b1648791",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2071,8 +2071,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson26\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson26\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson26/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson26/tape-english/course.lrc",
         "md5": "efe2bac4fa9f48836b643a74ad1c93a8587dfebaa381a0a14096cf6a093fbd1c",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2092,8 +2092,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson26\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson26\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson26/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson26/tape-american-music/course.mp3",
         "md5": "f8f21c7c42ee4e1a4bf9024af4a3c2c1e5944b7ecb7ffa83a9d6975d5012d1ce",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2111,8 +2111,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson26\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson26\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson26/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson26/tape-american-music/course.lrc",
         "md5": "9fb46293751004e62c064c8411183091ad86542bf3846b54ae8cf5b3f1c34b75",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2134,8 +2134,8 @@ export default {
   "27": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson27\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson27\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson27/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson27/tape-english/course.mp3",
         "md5": "c59d9fdd2ebad4c978a5f99fe0699f7c317ebf8e5020e1d002e39fec5a94f21e",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2153,8 +2153,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson27\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson27\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson27/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson27/tape-english/course.lrc",
         "md5": "b82c13b899f7d7fe23c502d06db849f3b876c67aa3dd0047b7f5e1a0d75ce7ff",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2174,8 +2174,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson27\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson27\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson27/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson27/tape-american-music/course.mp3",
         "md5": "4fe7e1f7935654c905c3ebad67067f32f90ee5ab1fbaabd5d3e26920b146f26f",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2193,8 +2193,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson27\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson27\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson27/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson27/tape-american-music/course.lrc",
         "md5": "8fb7a145e1d66394c657ed2f0e213eeeac24e5602f51bf540aa98a0e0586e268",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2216,8 +2216,8 @@ export default {
   "28": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson28\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson28\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson28/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson28/tape-english/course.mp3",
         "md5": "d2466e8108930593ee5bf4cf067eb26bcf714d061531aa90b34a4b3f754be08c",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2235,8 +2235,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson28\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson28\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson28/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson28/tape-english/course.lrc",
         "md5": "1c48df1c0ec6ffea03ce58c108879281bb7fe91c7465a884f230fad671d3277b",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2256,8 +2256,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson28\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson28\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson28/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson28/tape-american-music/course.mp3",
         "md5": "6464e63ba8d0dc35e97e9b34f7a1f6eeca39bc43d5a613bade9d8d61957c7ca6",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2275,8 +2275,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson28\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson28\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson28/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson28/tape-american-music/course.lrc",
         "md5": "c267d90f1324d28819c964cdee7af443395374b08caf8e3b3cd69fca23417c87",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2298,8 +2298,8 @@ export default {
   "29": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson29\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson29\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson29/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson29/tape-english/course.mp3",
         "md5": "288fd3b458a87844331e6a296cc1d09fba92b37211a556e6edcb626c2c2cb5a3",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2317,8 +2317,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson29\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson29\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson29/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson29/tape-english/course.lrc",
         "md5": "5b478ecc98542e53a4a6de0f0325275c9a70cdda7c2ee0a21bd9cbd66462b4a3",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2338,8 +2338,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson29\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson29\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson29/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson29/tape-american-music/course.mp3",
         "md5": "206597bb707f1197d71a593c5da994ceed9c970382f599e9ea1a432aa6d30968",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2357,8 +2357,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson29\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson29\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson29/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson29/tape-american-music/course.lrc",
         "md5": "41539b4957f1065025ea4cf152700d36deb5a52585b565e9e2e202433760158a",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2380,8 +2380,8 @@ export default {
   "30": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson30\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson30\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson30/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson30/tape-english/course.mp3",
         "md5": "314319c5ad6475e86322ee3fc15afda00e6c3d830557a60309970cf2a0996ded",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2399,8 +2399,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson30\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson30\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson30/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson30/tape-english/course.lrc",
         "md5": "5373b1e6d9280ae45158bdfe11a3f204ee4da3d729954541f494009dfcd75ee6",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2420,8 +2420,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson30\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson30\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson30/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson30/tape-american-music/course.mp3",
         "md5": "6b296df6f6686b7f6ee95158815b6f73cd0101ceeb52d499482582faca16ce1e",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2439,8 +2439,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson30\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson30\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson30/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson30/tape-american-music/course.lrc",
         "md5": "398db1ac072a6a92054c371712ae1e1ed1cc8218d8604a8c98853fd0409a185b",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2462,8 +2462,8 @@ export default {
   "31": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson31\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson31\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson31/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson31/tape-english/course.mp3",
         "md5": "b1dbdfdcef23f2f108ca4b8fd46d8cd992a228937d84ad9cf988c759363d01b9",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2481,8 +2481,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson31\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson31\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson31/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson31/tape-english/course.lrc",
         "md5": "2a1c69bd983d68cc4a089afed55304fa982b539f8941c8138d8fe98cd4c0c25f",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2502,8 +2502,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson31\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson31\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson31/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson31/tape-american-music/course.mp3",
         "md5": "d1115c2fda908cdc47b547407f3001abf0b577736c205033bb0eb54340a773d3",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2521,8 +2521,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson31\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson31\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson31/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson31/tape-american-music/course.lrc",
         "md5": "556bbfe6a71297c2b136e3bbe3f01b2360f077fbc6a905311d190644a9e2f42c",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2544,8 +2544,8 @@ export default {
   "32": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson32\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson32\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson32/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson32/tape-english/course.mp3",
         "md5": "864808c74437203f3f8b1eecacfff7d4ba0cb0d75a74f07ba3dd61738841f745",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2563,8 +2563,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson32\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson32\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson32/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson32/tape-english/course.lrc",
         "md5": "65fd9316f1b01058c3c5cfee972e318d72a79a49f55aaa7229e83d967d040b21",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2584,8 +2584,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson32\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson32\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson32/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson32/tape-american-music/course.mp3",
         "md5": "a1f4983c9519a634f0c09a02a7d085d5003e6304e068ee5030e896293e866968",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2603,8 +2603,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson32\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson32\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson32/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson32/tape-american-music/course.lrc",
         "md5": "b4959b5671d8c1a94f91ea1b65052be2555711e019c83ff71a6aca6769ebb948",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2626,8 +2626,8 @@ export default {
   "33": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson33\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson33\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson33/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson33/tape-english/course.mp3",
         "md5": "0954b9e37f10f34444d5636a7a373f957f9d70af050cfc27f376a5d4a582b8b1",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2645,8 +2645,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson33\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson33\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson33/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson33/tape-english/course.lrc",
         "md5": "a52232b3b0a5c94e2e13fe3162c0bc4e62035b4ab6ba6a098cad31220625f24e",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2666,8 +2666,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson33\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson33\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson33/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson33/tape-american-music/course.mp3",
         "md5": "47c47b77087276614f50116d18260585c67b38d89227afd463ba16635faa078b",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2685,8 +2685,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson33\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson33\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson33/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson33/tape-american-music/course.lrc",
         "md5": "87dee6551d2e1da93cc829e8918595939bf91bd7f6c6b34289b7440d906fbd32",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2708,8 +2708,8 @@ export default {
   "34": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson34\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson34\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson34/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson34/tape-english/course.mp3",
         "md5": "de0208898bebd32ff70e4f4bf3291e11e06c8debfd095ce145cd37a6dcb31849",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2727,8 +2727,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson34\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson34\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson34/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson34/tape-english/course.lrc",
         "md5": "6152dbec4593eb9410c1fa2828252fba6f012968111b1260c5554b26b7e5a64a",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2748,8 +2748,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson34\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson34\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson34/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson34/tape-american-music/course.mp3",
         "md5": "8fe522fcb441ca625cb4b5874faeb6422a862333e478a474db19b6972246171d",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2767,8 +2767,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson34\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson34\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson34/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson34/tape-american-music/course.lrc",
         "md5": "933f6c4ba38d640b1488486cb6d8718b6310a811770a65786bf4cdb0e6dd4ebf",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2790,8 +2790,8 @@ export default {
   "35": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson35\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson35\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson35/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson35/tape-english/course.mp3",
         "md5": "e6aa484ecdb691f648d3e944bfcb7cfc860a798f68cde6b84c6a7812fef3517f",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2809,8 +2809,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson35\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson35\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson35/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson35/tape-english/course.lrc",
         "md5": "a7052ea99901bbdd9a31e3a4b2340351267cc19f650e1f31b37c1000b10f3e95",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2830,8 +2830,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson35\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson35\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson35/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson35/tape-american-music/course.mp3",
         "md5": "6da8358b5292deeb4207af7304380ff9b279e73ab84034887543805f5840bc2a",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2849,8 +2849,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson35\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson35\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson35/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson35/tape-american-music/course.lrc",
         "md5": "09871ad7ed25c2e9d1dc1a73f99a63b39cb8a57b73092e35ce2489d53f78c4ce",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2870,50 +2870,10 @@ export default {
     }
   },
   "36": {
-    "tapeAmericanMusic": {
-      "mp3": {
-        "path": "assets\\program-data\\4\\lesson36\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson36\\tape-american-music\\course.mp3",
-        "md5": "50517341dd5318a9c1546b1ce9f4b56d1195742cd0b84c43b1aca1be879cac4d",
-        "fileName": "course.mp3",
-        "volume": "4",
-        "lesson": "lesson36",
-        "interface": {
-          "id": 22807,
-          "fileName": "course.mp3",
-          "time": "2024-09-03T20:51:19.445+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/3Ixo/course.mp3",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "3.39 MB"
-        }
-      },
-      "lrc": {
-        "path": "assets\\program-data\\4\\lesson36\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson36\\tape-american-music\\course.lrc",
-        "md5": "2fc6068757025bb5ea1a9e6d1ddc97bf41a2160697bb0535c3ffef56deb810c2",
-        "fileName": "course.lrc",
-        "volume": "4",
-        "lesson": "lesson36",
-        "interface": {
-          "id": 22806,
-          "fileName": "course.lrc",
-          "time": "2024-09-03T20:51:15.992+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/qMXU/course.lrc",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "2.85 KB"
-        }
-      }
-    },
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson36\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson36\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson36/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson36/tape-english/course.mp3",
         "md5": "5f975a80b828fc138c0c151ff053ae9e59bc9f9f39df71ba905eeee5de1387a7",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2931,8 +2891,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson36\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson36\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson36/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson36/tape-english/course.lrc",
         "md5": "d7cd7c1d8a7abd280a4c6bc5259df191c15d47c4d843eecf36f1397cf06fe0a2",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2949,13 +2909,53 @@ export default {
           "size": "2.87 KB"
         }
       }
+    },
+    "tapeAmericanMusic": {
+      "mp3": {
+        "path": "assets/program-data/4/lesson36/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson36/tape-american-music/course.mp3",
+        "md5": "50517341dd5318a9c1546b1ce9f4b56d1195742cd0b84c43b1aca1be879cac4d",
+        "fileName": "course.mp3",
+        "volume": "4",
+        "lesson": "lesson36",
+        "interface": {
+          "id": 22807,
+          "fileName": "course.mp3",
+          "time": "2024-09-03T20:51:19.445+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/3Ixo/course.mp3",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "3.39 MB"
+        }
+      },
+      "lrc": {
+        "path": "assets/program-data/4/lesson36/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson36/tape-american-music/course.lrc",
+        "md5": "2fc6068757025bb5ea1a9e6d1ddc97bf41a2160697bb0535c3ffef56deb810c2",
+        "fileName": "course.lrc",
+        "volume": "4",
+        "lesson": "lesson36",
+        "interface": {
+          "id": 22806,
+          "fileName": "course.lrc",
+          "time": "2024-09-03T20:51:15.992+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/qMXU/course.lrc",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "2.85 KB"
+        }
+      }
     }
   },
   "37": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson37\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson37\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson37/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson37/tape-english/course.mp3",
         "md5": "47c2916bf0a178c88eca7c5f86ac246212c68e697752161d3ae670ee39162233",
         "fileName": "course.mp3",
         "volume": "4",
@@ -2973,8 +2973,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson37\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson37\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson37/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson37/tape-english/course.lrc",
         "md5": "6db9e43b7f141408fd81f15cb6d8b62e90174e608fdba4517729a0c9f190fbda",
         "fileName": "course.lrc",
         "volume": "4",
@@ -2994,8 +2994,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson37\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson37\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson37/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson37/tape-american-music/course.mp3",
         "md5": "a55742901f813320ed215873571b754ea33d19038544a9ebfd8c4190a40586c6",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3013,8 +3013,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson37\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson37\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson37/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson37/tape-american-music/course.lrc",
         "md5": "c7885c80b244a9d2d340b516bc2aa067746e2fb397f5cbfb87528d648028d195",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3034,50 +3034,10 @@ export default {
     }
   },
   "38": {
-    "tapeAmericanMusic": {
-      "mp3": {
-        "path": "assets\\program-data\\4\\lesson38\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson38\\tape-american-music\\course.mp3",
-        "md5": "a70ea4f9813051dc0467c1fa340e5143590ebcc59ac8d90b1c38263abfcfd610",
-        "fileName": "course.mp3",
-        "volume": "4",
-        "lesson": "lesson38",
-        "interface": {
-          "id": 22799,
-          "fileName": "course.mp3",
-          "time": "2024-09-03T20:50:59.947+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/XS7s/course.mp3",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "3.02 MB"
-        }
-      },
-      "lrc": {
-        "path": "assets\\program-data\\4\\lesson38\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson38\\tape-american-music\\course.lrc",
-        "md5": "17a2da36c4db91ca6156741e290b5113f152279a5e93f9b213cf2a0d3fa35e74",
-        "fileName": "course.lrc",
-        "volume": "4",
-        "lesson": "lesson38",
-        "interface": {
-          "id": 22798,
-          "fileName": "course.lrc",
-          "time": "2024-09-03T20:50:56.942+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/ScUq/course.lrc",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "2.58 KB"
-        }
-      }
-    },
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson38\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson38\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson38/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson38/tape-english/course.mp3",
         "md5": "a2538f8200b9f241ccf3b7fa7319fba9b7dc8711c61f2c06585b45efc8d1c50a",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3095,8 +3055,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson38\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson38\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson38/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson38/tape-english/course.lrc",
         "md5": "01b73bfacfd1cfea3e83ae3a42ebd2da70270e180b994a97e42dd5c163a7079a",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3113,13 +3073,53 @@ export default {
           "size": "2.6 KB"
         }
       }
+    },
+    "tapeAmericanMusic": {
+      "mp3": {
+        "path": "assets/program-data/4/lesson38/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson38/tape-american-music/course.mp3",
+        "md5": "a70ea4f9813051dc0467c1fa340e5143590ebcc59ac8d90b1c38263abfcfd610",
+        "fileName": "course.mp3",
+        "volume": "4",
+        "lesson": "lesson38",
+        "interface": {
+          "id": 22799,
+          "fileName": "course.mp3",
+          "time": "2024-09-03T20:50:59.947+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/XS7s/course.mp3",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "3.02 MB"
+        }
+      },
+      "lrc": {
+        "path": "assets/program-data/4/lesson38/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson38/tape-american-music/course.lrc",
+        "md5": "17a2da36c4db91ca6156741e290b5113f152279a5e93f9b213cf2a0d3fa35e74",
+        "fileName": "course.lrc",
+        "volume": "4",
+        "lesson": "lesson38",
+        "interface": {
+          "id": 22798,
+          "fileName": "course.lrc",
+          "time": "2024-09-03T20:50:56.942+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/ScUq/course.lrc",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "2.58 KB"
+        }
+      }
     }
   },
   "39": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson39\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson39\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson39/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson39/tape-english/course.mp3",
         "md5": "f1465920569e1d89f5439f67cd437b3c1855d99ec326c0332d9672996dd744b6",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3137,8 +3137,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson39\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson39\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson39/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson39/tape-english/course.lrc",
         "md5": "cef4b06ebc5156cf4e31383745840d8951b0a551c330547ccaa9b4359e1de553",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3158,8 +3158,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson39\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson39\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson39/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson39/tape-american-music/course.mp3",
         "md5": "b3d56209f54c069a64eeecdb494a5a48af8e1b03531e8b65a33ff37ad743d227",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3177,8 +3177,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson39\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson39\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson39/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson39/tape-american-music/course.lrc",
         "md5": "5f9e2c8f1b391c30feede8c1b15b282fe9d959ea3a2061c760cc187e2230db9f",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3200,8 +3200,8 @@ export default {
   "40": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson40\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson40\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson40/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson40/tape-english/course.mp3",
         "md5": "86890111a3e2ea2bfb0198f093cd536e56d0507d8ea8e35cc2b02807232a0524",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3219,8 +3219,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson40\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson40\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson40/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson40/tape-english/course.lrc",
         "md5": "69cd2f528d1ee54a586c8eeb950f1dc5c2de30fb3e5e9de93322bb1efbe40166",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3240,8 +3240,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson40\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson40\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson40/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson40/tape-american-music/course.mp3",
         "md5": "912e1a4c292c9c57b4705934ee654dc227351f3afacc4c889a72b967d59c407d",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3259,8 +3259,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson40\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson40\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson40/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson40/tape-american-music/course.lrc",
         "md5": "a673b640d2691db87fd9b0be0a8b863afa48cf3242309a2a99ef84dc387ec9b7",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3280,50 +3280,10 @@ export default {
     }
   },
   "41": {
-    "tapeAmericanMusic": {
-      "mp3": {
-        "path": "assets\\program-data\\4\\lesson41\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson41\\tape-american-music\\course.mp3",
-        "md5": "a95c51f59c7706d3c7fd42f4599a8d8fec3f544c58b5de383eee9fda0ca40c15",
-        "fileName": "course.mp3",
-        "volume": "4",
-        "lesson": "lesson41",
-        "interface": {
-          "id": 22783,
-          "fileName": "course.mp3",
-          "time": "2024-09-03T20:50:28.987+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/0IG2/course.mp3",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "4.68 MB"
-        }
-      },
-      "lrc": {
-        "path": "assets\\program-data\\4\\lesson41\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson41\\tape-american-music\\course.lrc",
-        "md5": "d6c7115192c0796e83f7400a8989ee9f88c197cc2b06d5c669b6b26a25f9c124",
-        "fileName": "course.lrc",
-        "volume": "4",
-        "lesson": "lesson41",
-        "interface": {
-          "id": 22782,
-          "fileName": "course.lrc",
-          "time": "2024-09-03T20:50:23.884+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/qydD/course.lrc",
-          "uid": "@new-concept-english/source",
-          "contentType": "application/octet-stream",
-          "shareCode": null,
-          "shareExpireDate": null,
-          "size": "3.84 KB"
-        }
-      }
-    },
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson41\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson41\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson41/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson41/tape-english/course.mp3",
         "md5": "568a371630fe5e3e3a3bd5b99c500437579a64e6535eb1f62c2843002b472166",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3341,8 +3301,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson41\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson41\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson41/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson41/tape-english/course.lrc",
         "md5": "89cb4216e2e21969359c016e4be790b9af49ab21d04d26111561bb06271c5b9d",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3359,53 +3319,53 @@ export default {
           "size": "3.85 KB"
         }
       }
-    }
-  },
-  "42": {
+    },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson42\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson42\\tape-american-music\\course.mp3",
-        "md5": "a740b71400c118c3f27c1c346d0302523134787154b3daaa3872bd563105ce0a",
+        "path": "assets/program-data/4/lesson41/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson41/tape-american-music/course.mp3",
+        "md5": "a95c51f59c7706d3c7fd42f4599a8d8fec3f544c58b5de383eee9fda0ca40c15",
         "fileName": "course.mp3",
         "volume": "4",
-        "lesson": "lesson42",
+        "lesson": "lesson41",
         "interface": {
-          "id": 22779,
+          "id": 22783,
           "fileName": "course.mp3",
-          "time": "2024-09-03T20:50:17.648+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/Rasj/course.mp3",
+          "time": "2024-09-03T20:50:28.987+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/0IG2/course.mp3",
           "uid": "@new-concept-english/source",
           "contentType": "application/octet-stream",
           "shareCode": null,
           "shareExpireDate": null,
-          "size": "4.67 MB"
+          "size": "4.68 MB"
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson42\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson42\\tape-american-music\\course.lrc",
-        "md5": "88684b472b13f20137a4a1a7d2ddd176c4a276d419012f6c4f8d1c7a73283cbf",
+        "path": "assets/program-data/4/lesson41/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson41/tape-american-music/course.lrc",
+        "md5": "d6c7115192c0796e83f7400a8989ee9f88c197cc2b06d5c669b6b26a25f9c124",
         "fileName": "course.lrc",
         "volume": "4",
-        "lesson": "lesson42",
+        "lesson": "lesson41",
         "interface": {
-          "id": 22778,
+          "id": 22782,
           "fileName": "course.lrc",
-          "time": "2024-09-03T20:50:12.461+08:00",
-          "url": "https://cdn.z.wiki/autoupload/20240903/ommx/course.lrc",
+          "time": "2024-09-03T20:50:23.884+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/qydD/course.lrc",
           "uid": "@new-concept-english/source",
           "contentType": "application/octet-stream",
           "shareCode": null,
           "shareExpireDate": null,
-          "size": "4.29 KB"
+          "size": "3.84 KB"
         }
       }
-    },
+    }
+  },
+  "42": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson42\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson42\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson42/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson42/tape-english/course.mp3",
         "md5": "1ea7bf15c8c5bf2cde5da4ed753a0d3f76e4c5ed1d87140d5bb4f1e91ab2aa08",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3423,8 +3383,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson42\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson42\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson42/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson42/tape-english/course.lrc",
         "md5": "df89c1894cb0e6c8ff2a326d498559df17fe18d09df4d9ff8b2609dfcc40609c",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3441,13 +3401,53 @@ export default {
           "size": "4.31 KB"
         }
       }
+    },
+    "tapeAmericanMusic": {
+      "mp3": {
+        "path": "assets/program-data/4/lesson42/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson42/tape-american-music/course.mp3",
+        "md5": "a740b71400c118c3f27c1c346d0302523134787154b3daaa3872bd563105ce0a",
+        "fileName": "course.mp3",
+        "volume": "4",
+        "lesson": "lesson42",
+        "interface": {
+          "id": 22779,
+          "fileName": "course.mp3",
+          "time": "2024-09-03T20:50:17.648+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/Rasj/course.mp3",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "4.67 MB"
+        }
+      },
+      "lrc": {
+        "path": "assets/program-data/4/lesson42/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson42/tape-american-music/course.lrc",
+        "md5": "88684b472b13f20137a4a1a7d2ddd176c4a276d419012f6c4f8d1c7a73283cbf",
+        "fileName": "course.lrc",
+        "volume": "4",
+        "lesson": "lesson42",
+        "interface": {
+          "id": 22778,
+          "fileName": "course.lrc",
+          "time": "2024-09-03T20:50:12.461+08:00",
+          "url": "https://cdn.z.wiki/autoupload/20240903/ommx/course.lrc",
+          "uid": "@new-concept-english/source",
+          "contentType": "application/octet-stream",
+          "shareCode": null,
+          "shareExpireDate": null,
+          "size": "4.29 KB"
+        }
+      }
     }
   },
   "43": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson43\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson43\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson43/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson43/tape-english/course.mp3",
         "md5": "bc88c4300a47dc8dc1dacada029bee46f2436673df868a22f2d5ec2b1e7fc25f",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3465,8 +3465,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson43\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson43\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson43/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson43/tape-english/course.lrc",
         "md5": "dfc528431cb99b82fda76280be0a1f478cfc8fa8efaf871cce699bbe308c98a2",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3486,8 +3486,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson43\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson43\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson43/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson43/tape-american-music/course.mp3",
         "md5": "2b9c1ea5f71d05a8bb3ee0c2fa1a52ee8a5a942ce5918678926de3f26dca2033",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3505,8 +3505,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson43\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson43\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson43/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson43/tape-american-music/course.lrc",
         "md5": "f2c050fdcc49b5a563378bc15ccf3b73f0555c90f105fa8f826908b8671cb650",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3528,8 +3528,8 @@ export default {
   "44": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson44\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson44\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson44/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson44/tape-english/course.mp3",
         "md5": "3ecd7a33e29912aa06bbee4b71df5e87901474a52d012b4e03500c634679a241",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3547,8 +3547,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson44\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson44\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson44/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson44/tape-english/course.lrc",
         "md5": "fc86dc4685e83975f9e2447416193305e4c660b3499198627aeada431f4b9871",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3568,8 +3568,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson44\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson44\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson44/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson44/tape-american-music/course.mp3",
         "md5": "52ee32f953278083af44ff3867944794f1202ce17ccf7f83d137d03a95cb8843",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3587,8 +3587,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson44\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson44\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson44/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson44/tape-american-music/course.lrc",
         "md5": "b15238593198d57519e2b2b0a85bb95cff6fc4a87953eb170d4fe4499e551fd5",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3610,8 +3610,8 @@ export default {
   "45": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson45\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson45\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson45/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson45/tape-english/course.mp3",
         "md5": "a17d83884d7af1825517c7f14b4b8f243c3d8bc9917cc7b786feb6bfbd09b538",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3629,8 +3629,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson45\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson45\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson45/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson45/tape-english/course.lrc",
         "md5": "9b00b13bba46cc9b43d38b1b09df3a84919fa3c1f5cb5d1f5a8870ff3d941369",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3650,8 +3650,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson45\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson45\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson45/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson45/tape-american-music/course.mp3",
         "md5": "f28672fa2be3c1d3a3414966a980d11542dbf397fd0eef18daf6b890e2d9b387",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3669,8 +3669,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson45\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson45\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson45/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson45/tape-american-music/course.lrc",
         "md5": "a2c01b950894fb53846e81213c62fe898626b3e12a11c04b7f6475257e7979b6",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3692,8 +3692,8 @@ export default {
   "46": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson46\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson46\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson46/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson46/tape-english/course.mp3",
         "md5": "dfe7ffbd0318492d02a9ddfb1b5ae5595a13564c4da324fea705373d4d869abe",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3711,8 +3711,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson46\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson46\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson46/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson46/tape-english/course.lrc",
         "md5": "8d4deefb9e93b1399e9f341d2dc89cf1e3e40993d8a069f407a57870c2ea9558",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3732,8 +3732,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson46\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson46\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson46/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson46/tape-american-music/course.mp3",
         "md5": "f89c2545aaecc4ac6802392d745a958aca958759baa8bddf0db61b00b01d8187",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3751,8 +3751,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson46\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson46\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson46/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson46/tape-american-music/course.lrc",
         "md5": "c392dc9a407cd20504bfbee72b9d4977e24317ccaa787ce93d220f9261ad10a9",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3774,8 +3774,8 @@ export default {
   "47": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson47\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson47\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson47/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson47/tape-english/course.mp3",
         "md5": "ac6be924fa595cbe84ed73c278533c831bfc57ec3dba1cdc1499f518c5a83676",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3793,8 +3793,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson47\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson47\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson47/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson47/tape-english/course.lrc",
         "md5": "5392e8c12541f7de165f6c6a021ee066fd3baf230cf23093f306d13b91beaf95",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3814,8 +3814,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson47\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson47\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson47/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson47/tape-american-music/course.mp3",
         "md5": "6a2e9a26daa1d156cc85df526782147612eae81080dd554ee8683d05cd42af0e",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3833,8 +3833,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson47\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson47\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson47/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson47/tape-american-music/course.lrc",
         "md5": "d00d87c8f4cf6b81346e0a2162569073aa59e31996952a1a35212ab898d9d649",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3856,8 +3856,8 @@ export default {
   "48": {
     "tapeEnglish": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson48\\tape-english\\course.mp3",
-        "abbreviatedPath": "4\\lesson48\\tape-english\\course.mp3",
+        "path": "assets/program-data/4/lesson48/tape-english/course.mp3",
+        "abbreviatedPath": "4/lesson48/tape-english/course.mp3",
         "md5": "021849c994075fb0c20948949c78163da36de137cc3d42c4f203ee82aa62a3b6",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3875,8 +3875,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson48\\tape-english\\course.lrc",
-        "abbreviatedPath": "4\\lesson48\\tape-english\\course.lrc",
+        "path": "assets/program-data/4/lesson48/tape-english/course.lrc",
+        "abbreviatedPath": "4/lesson48/tape-english/course.lrc",
         "md5": "75808873836b1171e12994dc5ac2de66798141fd55610b02f786723561ed2f31",
         "fileName": "course.lrc",
         "volume": "4",
@@ -3896,8 +3896,8 @@ export default {
     },
     "tapeAmericanMusic": {
       "mp3": {
-        "path": "assets\\program-data\\4\\lesson48\\tape-american-music\\course.mp3",
-        "abbreviatedPath": "4\\lesson48\\tape-american-music\\course.mp3",
+        "path": "assets/program-data/4/lesson48/tape-american-music/course.mp3",
+        "abbreviatedPath": "4/lesson48/tape-american-music/course.mp3",
         "md5": "f5c428e16891de8fddd28634064550d8fc8b3535201af315ff4599e0494bad25",
         "fileName": "course.mp3",
         "volume": "4",
@@ -3915,8 +3915,8 @@ export default {
         }
       },
       "lrc": {
-        "path": "assets\\program-data\\4\\lesson48\\tape-american-music\\course.lrc",
-        "abbreviatedPath": "4\\lesson48\\tape-american-music\\course.lrc",
+        "path": "assets/program-data/4/lesson48/tape-american-music/course.lrc",
+        "abbreviatedPath": "4/lesson48/tape-american-music/course.lrc",
         "md5": "9caa95472a4df0a07978beccad481f99260ee24c66bb69f1a322b97f8fe0248f",
         "fileName": "course.lrc",
         "volume": "4",
