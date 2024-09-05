@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.7.0 (2024-09-05)
+
+
+### Features
+
+* Automatically build resource dependencies and release versions ([2c5c1a3](https://github.com/new-concept-english/source/commit/2c5c1a3b29714a919993c1e3a56a64b3606197fe))
+* 更改输出文件格式，对ts类型支持 ([784ef79](https://github.com/new-concept-english/source/commit/784ef7911d7e8d697d2ae8da9ddb1dceecdee0c8))
+
 ## 1.6.0 (2024-09-04)
 
 
