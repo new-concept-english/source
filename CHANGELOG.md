@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.7.2 (2024-09-06)
+
+
+### Bug Fixes
+
+* 修复生成类型文件不存在问题 ([d19f46e](https://github.com/new-concept-english/source/commit/d19f46ef881e18909e96ff3d6ca38ee177306b57))
+
 ## 1.7.1 (2024-09-06)
 
 ## 1.7.0 (2024-09-05)
