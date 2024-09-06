@@ -1,3 +1,5 @@
+import type { Lesson } from './index';
+
 const ALTERNATIVE_IDENTIFIER = `ALTERNATIVE_CONTENT`;
 
 const content = `
@@ -18,6 +20,15 @@ export default list.reduce(
  * @param str
  * @returns
  */
-export const generatedContent = (arr: Array<unknown>) => {
-  return content.replace(ALTERNATIVE_IDENTIFIER, JSON.stringify(arr, null, 2));
+export const generatedContent = (obj: Record<string, Lesson>) => {
+  return content.replace(
+    ALTERNATIVE_IDENTIFIER,
+    JSON.stringify(
+      Object.values(obj).sort((a, b) => {
+        return a.additional.lesson - b.additional.lesson;
+      }),
+      null,
+      2,
+    ),
+  );
 };

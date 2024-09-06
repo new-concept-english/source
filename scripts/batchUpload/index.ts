@@ -32,8 +32,8 @@ const uid = `@new-concept-english/source`;
 
 const dir = './assets';
 
-const files = await glob('**/*', {
-  ignore: ['pdf/**/*', 'books/**/*'],
+const files = await glob('./program-data/**/*', {
+  // ignore: ['pdf/**/*', 'books/**/*'],
   cwd: dir,
   nodir: true,
 });
@@ -135,7 +135,7 @@ export interface Lesson {
   /* 美音 */
   tapeAmericanMusic: Type;
   /* 插图 */
-  illustration: unknown;
+  illustration: Base[];
   /* 课文 */
   text: Base;
   /*
@@ -158,41 +158,51 @@ await Promise.all(
     /*
      * 对每一课也要进行分类，分为插图、音频、课文等
      */
-    const content = Object.entries(lesson).map(([key, value]) => {
-      const lessonNumber = +(key.match(/\d+/)?.[0] || 1);
-      const c = value.reduce((o, v) => {
-        const { dir, ext } = path.parse(v.path);
-        o.additional = {
-          lesson: lessonNumber,
-        };
-        switch (ext) {
-          case '.json':
-            o['text'] = v;
-            o.additional = Object.assign(o.additional, {
-              md5: v.md5,
+    const content = Object.entries(lesson).reduce(
+      (obj, [key, value]) => {
+        const lessonNumber = +(key.match(/\d+/)?.[0] || 1);
+        const c = value.reduce((o, v) => {
+          const { dir, ext } = path.parse(v.path);
+          o.additional ||= {
+            lesson: lessonNumber,
+          };
+          o.illustration ||= [];
+          switch (ext) {
+            case '.json':
+              o['text'] = v;
+              o.additional = Object.assign(o.additional, {
+                md5: v.md5,
+                title: require(path.join(process.cwd(), v.path))?.title,
+              });
 
-              title: require(path.join(process.cwd(), v.path))?.title,
-            });
+              break;
+            case '.mp3':
+            case '.lrc': {
+              const key: keyof Lesson = dir.endsWith(`tape-english`)
+                ? 'tapeEnglish'
+                : 'tapeAmericanMusic';
 
-            break;
-          case '.mp3':
-          case '.lrc': {
-            const key: keyof Lesson = dir.endsWith(`tape-english`)
-              ? 'tapeEnglish'
-              : 'tapeAmericanMusic';
+              const isMp3 = ext === '.mp3';
+              o[key] = Object.assign({}, o[key], {
+                [isMp3 ? 'mp3' : 'lrc']: v,
+              });
 
-            const isMp3 = ext === '.mp3';
-            o[key] = Object.assign({}, o[key], {
-              [isMp3 ? 'mp3' : 'lrc']: v,
-            });
-
-            break;
+              break;
+            }
+            default: {
+              // 说明是插图
+              if (dir.endsWith(`illustration`)) {
+                o.illustration.push(v);
+              }
+            }
           }
-        }
-        return o;
-      }, {} as Lesson);
-      return c;
-    });
+          return o;
+        }, {} as Lesson);
+        obj[key] = c;
+        return obj;
+      },
+      {} as Record<string, Lesson>,
+    );
 
     return fs.outputFile(
       path.join(process.cwd(), 'output', `${key}.ts`),
