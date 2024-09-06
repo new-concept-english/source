@@ -1,5 +1,7 @@
 {
   "extends": "./tsconfig.json",
-  "compilerOptions": {},
-  "include": ["./scripts/buildingDependencies.ts", "./output/*.ts"]
+  "compilerOptions": {
+    "declaration": true
+  },
+  "include": ["./scripts", "./output/*.ts"]
 }

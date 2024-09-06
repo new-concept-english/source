@@ -3,13 +3,18 @@
  */
 
 import { glob } from 'glob';
-import { createdMd5, createEStemplate, groupBy, runParallel } from './utils';
+import { createdMd5, groupBy, runParallel } from '../utils';
 import path from 'node:path';
 import { JSONFilePreset } from 'lowdb/node';
 import axios, { AxiosError } from 'axios';
 import { fileFromPath } from 'formdata-node/file-from-path';
 import { createRequire } from 'node:module';
 import fs from 'fs-extra';
+import { fileURLToPath } from 'node:url';
+import { generatedContent } from './template';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.join(__filename, '../');
 
 const require = createRequire(import.meta.url);
 
@@ -18,7 +23,7 @@ const require = createRequire(import.meta.url);
  */
 export type Hashcatch = Record<string, Omit<Interface, 'base64'>>;
 
-const hashcatchPath = path.join(process.cwd(), 'scripts/hashcatch.json');
+const hashcatchPath = path.join(__dirname, './hashcatch.json');
 
 const hashcatchDb = await JSONFilePreset<Hashcatch>(hashcatchPath, {});
 const uid = `@new-concept-english/source`;
@@ -120,7 +125,9 @@ export interface Type {
   mp3: Base;
 }
 
-type Additional = Pick<Base, 'md5'> & { lesson: number; title: string };
+type Additional = Partial<Pick<Base, 'md5'> & { title: string }> & {
+  lesson: number;
+};
 
 export interface Lesson {
   /* 英音 */
@@ -151,46 +158,45 @@ await Promise.all(
     /*
      * 对每一课也要进行分类，分为插图、音频、课文等
      */
-    const content = Object.entries(lesson).reduce(
-      (obj, [key, value]) => {
-        const lessonNumber = +(key.match(/\d+/)?.[0] || 1);
-        const c = value.reduce((o, v) => {
-          const { dir, ext } = path.parse(v.path);
-          switch (ext) {
-            case '.json':
-              o['text'] = v;
-              o.additional = {
-                md5: v.md5,
-                lesson: lessonNumber,
-                title: require(path.join(process.cwd(), v.path))?.title,
-              };
+    const content = Object.entries(lesson).map(([key, value]) => {
+      const lessonNumber = +(key.match(/\d+/)?.[0] || 1);
+      const c = value.reduce((o, v) => {
+        const { dir, ext } = path.parse(v.path);
+        o.additional = {
+          lesson: lessonNumber,
+        };
+        switch (ext) {
+          case '.json':
+            o['text'] = v;
+            o.additional = Object.assign(o.additional, {
+              md5: v.md5,
 
-              break;
-            case '.mp3':
-            case '.lrc': {
-              const key: keyof Lesson = dir.endsWith(`tape-english`)
-                ? 'tapeEnglish'
-                : 'tapeAmericanMusic';
+              title: require(path.join(process.cwd(), v.path))?.title,
+            });
 
-              const isMp3 = ext === '.mp3';
-              o[key] = Object.assign({}, o[key], {
-                [isMp3 ? 'mp3' : 'lrc']: v,
-              });
+            break;
+          case '.mp3':
+          case '.lrc': {
+            const key: keyof Lesson = dir.endsWith(`tape-english`)
+              ? 'tapeEnglish'
+              : 'tapeAmericanMusic';
 
-              break;
-            }
+            const isMp3 = ext === '.mp3';
+            o[key] = Object.assign({}, o[key], {
+              [isMp3 ? 'mp3' : 'lrc']: v,
+            });
+
+            break;
           }
-          return o;
-        }, {} as Lesson);
-        obj[lessonNumber] = c;
-        return obj;
-      },
-      {} as Record<string, Lesson>,
-    );
+        }
+        return o;
+      }, {} as Lesson);
+      return c;
+    });
 
     return fs.outputFile(
       path.join(process.cwd(), 'output', `${key}.ts`),
-      createEStemplate(JSON.stringify(content, null, 2)),
+      generatedContent(content),
     );
   }),
 );

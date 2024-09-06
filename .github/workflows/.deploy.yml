@@ -43,7 +43,7 @@ jobs:
           cache: 'pnpm'
 
       - name: Build project
-        run: pnpm run batchUpload && pnpm run build
+        run: pnpm run complete-process
 
       - name: Commit and push changes
         uses: crazy-max/ghaction-github-pages@v4

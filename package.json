@@ -52,9 +52,10 @@
     "vite-plugin-dts": "^4.1.0"
   },
   "scripts": {
-    "batchUpload": "tsx scripts/batchUpload.ts",
-    "batchUpload-watch": "tsx --watch scripts/batchUpload.ts",
+    "batch-upload": "tsx scripts/batchUpload/index.ts",
+    "batch-upload-watch": "tsx --watch scripts/batchUpload/index.ts",
     "build": "vite build",
+    "complete-process": "pnpm run batch-upload && pnpm run build",
     "release": "commit-and-tag-version"
   },
   "dependencies": {

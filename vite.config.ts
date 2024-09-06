@@ -4,7 +4,7 @@ import dts from 'vite-plugin-dts';
 export default defineConfig({
   build: {
     lib: {
-      entry: './scripts/buildingDependencies.ts',
+      entry: './scripts/batchUpload/buildingDependencies.ts',
       formats: ['umd', 'es'],
       name: '@boses/source',
       fileName: 'index',
