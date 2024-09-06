@@ -1,5 +1,5 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {},
-  "include": ["./scripts/batchUpload/buildingDependencies.ts"]
+  "include": ["./scripts/batchUpload/buildingDependencies.ts", "./output/*.ts"]
 }
