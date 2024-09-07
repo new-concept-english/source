@@ -168,14 +168,16 @@ await Promise.all(
           };
           o.illustration ||= [];
           switch (ext) {
-            case '.json':
+            case '.json': {
+              const text = require(path.join(process.cwd(), v.path));
               o['text'] = v;
               o.additional = Object.assign(o.additional, {
                 md5: v.md5,
-                title: require(path.join(process.cwd(), v.path))?.title,
+                title: [text.lesson, text.title].join(' '),
               });
-
               break;
+            }
+
             case '.mp3':
             case '.lrc': {
               const key: keyof Lesson = dir.endsWith(`tape-english`)

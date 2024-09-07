@@ -50,7 +50,7 @@ jobs:
         with:
           target_branch: master
           build_dir: .
-          commit_message: 'feat: Automatically build resource dependencies and release versions'
+          commit_message: 'build: Automatically build resource dependencies and release versions'
 
       - name: Pull latest changes
         run: git pull --rebase --autostash
