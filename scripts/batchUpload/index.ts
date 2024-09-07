@@ -95,7 +95,7 @@ if (!difference.length) {
 const writeWaitingArray: unknown[] = [];
 
 await runParallel(difference, {
-  maxConcurrency: 4,
+  maxConcurrency: 2,
   waitingTime: 1000,
   iteratorFn(item, index, total) {
     return upload(item).then((res) => {

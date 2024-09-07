@@ -39,15 +39,13 @@ export async function runParallel<T, U>(
   for (const item of source) {
     const p = Promise.resolve()
       .then(() => {
-        return iteratorFn(item, index, total);
+        return iteratorFn(item, index++, total);
       })
       .then(async (res) => {
         await setTimeout(waitingTime);
         return res;
-      })
-      .finally(() => {
-        index += 1;
       });
+
     ret.push(p);
 
     if (maxConcurrency <= source.length) {

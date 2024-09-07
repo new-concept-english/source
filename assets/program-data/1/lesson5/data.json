@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 5 Nice to meet you. 很高兴见到你。",
-  "introduction": "Listen to the tape then answer this question. Is Chang-woo Chinese? 听录音，然后回答问题。昌宇是中国人吗?",
+  "Lesson": "Lesson 5",
+  "title": "Nice to meet you. 很高兴见到你。",
+  "introduction": [
+    "Listen to the tape then answer this question. Is Chang-woo Chinese?",
+    "听录音，然后回答问题。昌宇是中国人吗?"
+  ],
   "text_and_translation": [
     {
       "text": "MR. BLAKE: Good morning.",

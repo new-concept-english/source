@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 1 Excuse me! 对不起!",
-  "introduction": "Listen to the tape then answer this question. Whose handbag is it? 听录音，然后回答问题。这是谁的手袋?",
+  "lesson": "lesson1",
+  "title": "Excuse me! 对不起!",
+  "introduction": [
+    "Listen to the tape then answer this question. Whose handbag is it?,",
+    "听录音，然后回答问题。这是谁的手袋?"
+  ],
   "text_and_translation": [
     {
       "text": "Excuse me!",
