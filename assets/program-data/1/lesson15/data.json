@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 15 Your passports, please. 请出示你们的护照。",
-  "introduction": "Listen to the tape then answer this question. Is there a problem with the Customs officer? 听录音，然后回答问题。海关官员有什么疑问吗?",
+  "lesson": "Lesson 15",
+  "title": "Your passports, please. 请出示你们的护照。",
+  "introduction": [
+    "Listen to the tape then answer this question. Is there a problem with the Customs officer?",
+    "听录音，然后回答问题。海关官员有什么疑问吗?"
+  ],
   "text_and_translation": [
     {
       "text": "CUSTOMS OFFICER: Are you Swedish?",

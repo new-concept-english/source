@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 27 Mrs. Smith's living room 史密斯太太的客厅",
-  "introduction": "Listen to the tape then answer this question. Where are the books? 听录音，然后回答问题。书在哪里?",
+  "lesson": "Lesson 27",
+  "title": "Mrs. Smith's living room 史密斯太太的客厅",
+  "introduction": [
+    "Listen to the tape then answer this question. Where are the books?",
+    "听录音，然后回答问题。书在哪里?"
+  ],
   "text_and_translation": [
     {
       "text": "MRS. SMITH'S LIVING ROOM IS LARGE.",

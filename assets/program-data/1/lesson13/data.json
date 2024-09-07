@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 13 A new dress 一件新连衣裙",
-  "introduction": "Listen to the tape then answer this question. What colour is Anna's hat? 听录音，然后回答问题。安娜的帽子是什么颜色的?",
+  "lesson": "Lesson 13",
+  "title": "A new dress 一件新连衣裙",
+  "introduction": [
+    "Listen to the tape then answer this question. What colour is Anna's hat?",
+    "听录音，然后回答问题。安娜的帽子是什么颜色的?"
+  ],
   "text_and_translation": [
     {
       "text": "LOUISE: What colour's your new dress?",

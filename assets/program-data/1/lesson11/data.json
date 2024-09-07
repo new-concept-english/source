@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 11 Is this your shirt? 这是你的衬衫吗?",
-  "introduction": "Listen to the tape then answer this question. Whose shirt is white? 听录音，然后回答问题。谁的衬衣是白色的?",
+  "lesson": "Lesson 11",
+  "title": "Is this your shirt? 这是你的衬衫吗?",
+  "introduction": [
+    "Listen to the tape then answer this question. Whose shirt is white?",
+    "听录音，然后回答问题。谁的衬衣是白色的?"
+  ],
   "text_and_translation": [
     {
       "text": "TEACHER: Whose shirt is that?",

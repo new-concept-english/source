@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 17 How do you do? 你好!",
-  "introduction": "Listen to the tape then answer this question. What are Michael Baker and Jeremy Short's jobs? 听录音，然后回答问题。迈克尔·贝克和杰里米·肖特是做什么工作的?",
+  "lesson": "Lesson 17",
+  "title": "How do you do? 你好!",
+  "introduction": [
+    "Listen to the tape then answer this question. What are Michael Baker and Jeremy Short's jobs?",
+    "听录音，然后回答问题。迈克尔·贝克和杰里米·肖特是做什么工作的?"
+  ],
   "text_and_translation": [
     {
       "text": "MR. JACKSON: Come and meet our employees, Mr. Richards.",

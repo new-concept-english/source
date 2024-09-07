@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 25 Mrs. Smith's kitchen 史密斯太太的厨房",
-  "introduction": "Listen to the tape then answer this question. What colour is the electric cooker? 听录音，然后回答问题。电灶是什么颜色的?",
+  "lesson": "Lesson 25",
+  "title": "Mrs. Smith's kitchen 史密斯太太的厨房",
+  "introduction": [
+    "Listen to the tape then answer this question. What colour is the electric cooker?",
+    "听录音，然后回答问题。电灶是什么颜色的?"
+  ],
   "text_and_translation": [
     {
       "text": "Mrs. Smith's kitchen is small.",

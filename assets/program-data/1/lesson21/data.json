@@ -1,6 +1,10 @@
 {
-  "title": "Lesson 21 Which book? 哪一本书?",
-  "introduction": "Listen to the tape and answer the question. Which book does the man want? 听录音并回答问题。这位男士想要哪一本书?",
+  "lesson": "Lesson 21",
+  "title": "Which book? 哪一本书?",
+  "introduction": [
+    "Listen to the tape and answer the question. Which book does the man want?",
+    "听录音并回答问题。这位男士想要哪一本书?"
+  ],
   "text_and_translation": [
     {
       "text": "MAN: Give me a book please, Jane.",
