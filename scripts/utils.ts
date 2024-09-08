@@ -77,3 +77,14 @@ export function groupBy<T, K extends T[keyof T] & (string | number | symbol)>(
     {} as Record<K, T[]>,
   );
 }
+
+/* 
+ * 获取真实的图片地址
+ * <!--
+  https://z.wiki/autoupload/20240905/av2i/1000X1781/20170721170832-LBrY2.thumb.1000-0.jpeg
+  https://cdn.z.wiki/autoupload/20240905/av2i/1000X1781/20170721170832-LBrY2.thumb.1000-0.jpeg
+  -->
+*/
+export const getRealImageUrl = (url: string) => {
+  return url.replace(/\/\/z.wiki\//, '//cdn.z.wiki/');
+};
