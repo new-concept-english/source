@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.8.3 (2024-09-08)
+
+
+### Bug Fixes
+
+* 修复插图顺序错误，将正文包含在输出文件内 ([20e7c18](https://github.com/new-concept-english/source/commit/20e7c182795da918556ecf4805867bdde26336dc))
+
 ## 1.8.2 (2024-09-07)
 
 ## 1.8.1 (2024-09-07)
