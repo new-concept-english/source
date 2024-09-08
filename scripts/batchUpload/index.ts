@@ -119,8 +119,6 @@ await runParallel(difference, {
         hashcatchDb.update((data) => {
           // 不要包含base64，文件太大了。
           delete res.base64;
-          res.realUrl = getRealImageUrl(res.url);
-          // 同时赋值真实的url地址
           data[item.md5] = res;
         }),
       );
@@ -209,6 +207,11 @@ await Promise.all(
               break;
             }
             default: {
+              if (v.interface) {
+                // 赋值真实的url地址
+                v.interface.realUrl = getRealImageUrl(v.interface.url);
+              }
+
               // 说明是插图
               if (dir.endsWith(`illustration`)) {
                 o.illustration.push(v);
