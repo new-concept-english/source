@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.9.0 (2024-09-10)
+
+
+### Features
+
+* 添加新课程 ([3f86bb2](https://github.com/new-concept-english/source/commit/3f86bb25391ce3622a852b471019c52ad5d65f92))
+
 ## 1.8.4 (2024-09-08)
 
 ## 1.8.3 (2024-09-08)
