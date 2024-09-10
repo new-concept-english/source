@@ -1,0 +1,84 @@
+{
+  "lesson": "Lesson 95",
+  "title": "Tickets, please. 请把车票拿出来。",
+  "introduction": [
+    "Listen to the tape then answer this question. Why did the train leave early?",
+    "听录音，然后回答问题。为什么火车提前开走了？"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Tickets, please.",
+      "translation": "请出示车票。"
+    },
+    {
+      "text": "Where are you going?",
+      "translation": "您要去哪里？"
+    },
+    {
+      "text": "I'm going to London.",
+      "translation": "我要去伦敦。"
+    },
+    {
+      "text": "When does the train leave?",
+      "translation": "火车什么时候开？"
+    },
+    {
+      "text": "At seven o'clock.",
+      "translation": "七点钟。"
+    },
+    {
+      "text": "When does it arrive?",
+      "translation": "什么时候到？"
+    },
+    {
+      "text": "At nine o'clock.",
+      "translation": "九点钟。"
+    },
+    {
+      "text": "Thank you.",
+      "translation": "谢谢。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Tickets, please.",
+      "describe": "是列车员要求乘客出示车票的常用语。"
+    },
+    {
+      "title": "Where are you going?",
+      "describe": "用于询问对方的目的地。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ticket",
+      "pronunciation": "/'tɪkɪt/",
+      "type": "n.",
+      "definition": "票"
+    },
+    {
+      "word": "leave",
+      "pronunciation": "/liːv/",
+      "type": "v.",
+      "definition": "离开"
+    },
+    {
+      "word": "arrive",
+      "pronunciation": "/ə'raɪv/",
+      "type": "v.",
+      "definition": "到达"
+    },
+    {
+      "word": "o'clock",
+      "pronunciation": "/ə'klɒk/",
+      "type": "adv.",
+      "definition": "…点钟"
+    },
+    {
+      "word": "thank",
+      "pronunciation": "/θæŋk/",
+      "type": "v.",
+      "definition": "感谢"
+    }
+  ]
+}

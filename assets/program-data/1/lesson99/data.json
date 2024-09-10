@@ -1,0 +1,118 @@
+{
+  "lesson": "Lesson 99",
+  "title": "Ow! 啊哟!",
+  "introduction": [
+    "Listen to the tape then answer this question. Must Andy go to see the doctor?",
+    "听录音，然后回答问题。安迪需要去看医生吗?"
+  ],
+  "text_and_translation": [
+    {
+      "text": "Ow!",
+      "translation": "啊哟!"
+    },
+    {
+      "text": "What's the matter, Andy?",
+      "translation": "怎么了，安迪？"
+    },
+    {
+      "text": "I slipped and fell downstairs.",
+      "translation": "我滑了一跤，从楼梯上摔下来了。"
+    },
+    {
+      "text": "Have you hurt yourself?",
+      "translation": "你摔伤了没有？"
+    },
+    {
+      "text": "Yes, I have. I think that I've hurt my back.",
+      "translation": "是啊，摔伤了。我想我把背摔坏了。"
+    },
+    {
+      "text": "Try and stand up. Can you stand up? Here. Let me help you.",
+      "translation": "试试站起来。你能站起来吗？来，让我帮你。"
+    },
+    {
+      "text": "I'm sorry, Lucy. I'm afraid that I can't get up.",
+      "translation": "对不起，露西，恐怕我站不起来。"
+    },
+    {
+      "text": "I think that the doctor had better see you. I'll phone Dr. Carter.",
+      "translation": "我想最好请医生来给你看一下。我去给卡特医生打电话。"
+    },
+    {
+      "text": "The doctor says that he will come at once. I'm sure that you need an X-ray, Andy.",
+      "translation": "医生说他马上就来。安迪，我看你需要做一次X光透视。"
+    }
+  ],
+  "notes": [
+    {
+      "title": "slip and fall",
+      "describe": "描述了安迪滑倒并从楼梯上摔下的情形。"
+    },
+    {
+      "title": "hurt oneself",
+      "describe": "表示某人受伤，安迪认为自己背部受伤。"
+    },
+    {
+      "title": "try and do something",
+      "describe": "表示尝试做某事，露西鼓励安迪尝试站起来。"
+    },
+    {
+      "title": "phone somebody",
+      "describe": "表示给某人打电话，露西打算给医生打电话。"
+    },
+    {
+      "title": "at once",
+      "describe": "表示立即，医生表示会立即前来。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "slip",
+      "pronunciation": "/slɪp/",
+      "type": "v.",
+      "definition": "滑倒，滑了一脚"
+    },
+    {
+      "word": "fall",
+      "pronunciation": "/fɔːl/",
+      "type": "v.",
+      "definition": "落下，跌倒"
+    },
+    {
+      "word": "downstairs",
+      "pronunciation": "/ˌdaʊnˈsteəz/",
+      "type": "adv.",
+      "definition": "下楼"
+    },
+    {
+      "word": "hurt",
+      "pronunciation": "/hɜːt/",
+      "type": "v.",
+      "definition": "伤，伤害，疼痛"
+    },
+    {
+      "word": "back",
+      "pronunciation": "/bæk/",
+      "type": "n.",
+      "definition": "背"
+    },
+    {
+      "word": "stand up",
+      "pronunciation": "/ˌstænd ʌp/",
+      "type": "phrasal verb",
+      "definition": "起立，站起来"
+    },
+    {
+      "word": "help",
+      "pronunciation": "/hɛlp/",
+      "type": "v.",
+      "definition": "帮助"
+    },
+    {
+      "word": "X-ray",
+      "pronunciation": "/ˈeks reɪ/",
+      "type": "n.",
+      "definition": "X光透视"
+    }
+  ]
+}
